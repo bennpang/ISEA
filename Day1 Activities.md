@@ -15,3 +15,17 @@ checking with the original file's hash and the iso downloaded is the same
 <img width="319" height="313" alt="Screenshot 2026-07-05 065917" src="https://github.com/user-attachments/assets/9beb3a99-966e-4c02-a964-9b6d3ce3ceca" />
 <img width="571" height="585" alt="Screenshot 2026-07-05 070033" src="https://github.com/user-attachments/assets/17778137-7db8-4ee5-8b6b-34fe8cb994cb" />
 <img width="1276" height="759" alt="Screenshot 2026-07-05 070221" src="https://github.com/user-attachments/assets/b530fc7b-f709-4728-931a-2f5382e34b11" />
+
+
+<img width="324" height="244" alt="image" src="https://github.com/user-attachments/assets/67335acc-4dbf-4e1a-9dcd-26c85b9d4fed" />
+
+allowing ssh
+<img width="1034" height="671" alt="Screenshot 2026-07-05 072911" src="https://github.com/user-attachments/assets/a8319324-4ccd-4dea-be99-5b923373089c" />
+
+
+📝 Optional Reflection/Report Prompts
+You may also be asked to include a short report or reflection answering:
+•	What are the advantages of using virtual machines for testing and development?
+•	What challenges did you face during installation or network setup?
+•	What are the differences between NAT and Bridged networking in VirtualBox?
+•	What did you learn about Linux distributions (distros) from your reading?
