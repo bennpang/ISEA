@@ -37,3 +37,5 @@ You may also be asked to include a short report or reflection answering:
 
 <img width="449" height="275" alt="Screenshot 2026-07-05 081600" src="https://github.com/user-attachments/assets/f5f31797-05e1-4cf5-955c-37c51db29975" />
 
+<img width="269" height="76" alt="Screenshot 2026-07-05 081910" src="https://github.com/user-attachments/assets/1666100b-6400-4741-82fa-b87de0f60751" />
+the ls -la command shows the full list of files along with their hidden attributes and file permissions 
