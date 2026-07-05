@@ -64,3 +64,6 @@ ls -laShows all files in a long list format.Sorts alphabetically by file name.ls
 
 When you see tar and bz2 together (like in Books.tar.bz2), you are looking at a two-step archive process common in Linux.tar (The Archive): Bundles multiple files and folders into a single file, preserving directory structures and permissions. It does not compress them to make them smaller.bz2 (The Compression): Compresses that single .tar bundle into a highly condensed format using Bzip2 to save disk space.
 <img width="496" height="608" alt="image" src="https://github.com/user-attachments/assets/9a0edd29-b9ca-4383-b182-eccae51fd391" />
+
+creating different users in ubuntu
+<img width="623" height="567" alt="Screenshot 2026-07-05 104111" src="https://github.com/user-attachments/assets/2ec8cbce-27d4-4693-9109-2d310f788465" />
