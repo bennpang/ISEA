@@ -54,3 +54,7 @@ the ls -la command shows the full list of files along with their hidden attribut
 <img width="524" height="256" alt="image" src="https://github.com/user-attachments/assets/de7e2a97-5ac1-469a-b356-6a44d8442de0" />
 
  When you run it, your terminal will display a few lines like this:Distributor ID: The base OS name (e.g., Ubuntu, Debian, Pop).Description: The full public name of your operating system.Release: The exact version number (e.g., 24.04 or 12.5).Codename: The unique development name (e.g., noble or bookworm).Knowing this exact version ensures you are always copying the correct commands and downloading compatible .deb software packages for your specific system.
+
+<img width="617" height="485" alt="image" src="https://github.com/user-attachments/assets/8cd99ee0-6643-46f3-a3fd-54c8b2254691" />
+
+ls -laShows all files in a long list format.Sorts alphabetically by file name.ls -altShows all files in a long list format.Sorts by time modified (newest files at the very top).
