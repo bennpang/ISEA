@@ -32,5 +32,8 @@ You may also be asked to include a short report or reflection answering:
 <img width="962" height="130" alt="Screenshot 2026-07-05 080112" src="https://github.com/user-attachments/assets/81c352c7-d512-43fa-ad9c-1a0e0a8ddaea" />
 <img width="943" height="440" alt="Screenshot 2026-07-05 080231" src="https://github.com/user-attachments/assets/496939de-5925-47f3-aac8-e32528a447f3" />
 <img width="509" height="629" alt="Screenshot 2026-07-05 081030" src="https://github.com/user-attachments/assets/75468aae-7487-4652-adae-6c02cd956fc8" />
+<img width="475" height="286" alt="Screenshot 2026-07-05 081351" src="https://github.com/user-attachments/assets/b5b0963d-b83b-467b-8594-7adc58a7fa38" />
+
+
 <img width="449" height="275" alt="Screenshot 2026-07-05 081600" src="https://github.com/user-attachments/assets/f5f31797-05e1-4cf5-955c-37c51db29975" />
 
