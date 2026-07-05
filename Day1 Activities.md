@@ -45,3 +45,8 @@ installing gedit
 
 <img width="269" height="76" alt="Screenshot 2026-07-05 081910" src="https://github.com/user-attachments/assets/1666100b-6400-4741-82fa-b87de0f60751" />
 the ls -la command shows the full list of files along with their hidden attributes and file permissions 
+
+
+<img width="445" height="211" alt="image" src="https://github.com/user-attachments/assets/c85d1d59-e985-4472-b62e-33a323c0dec6" />
+
+ flag makes the file list much easier to read by converting raw byte counts into human-readable formats like Kilobytes (K), Megabytes (M), or Gigabytes (G).
