@@ -67,3 +67,12 @@ When you see tar and bz2 together (like in Books.tar.bz2), you are looking at a 
 
 creating different users in ubuntu
 <img width="623" height="567" alt="Screenshot 2026-07-05 104111" src="https://github.com/user-attachments/assets/2ec8cbce-27d4-4693-9109-2d310f788465" />
+
+Troubleshooting problem with filesharing in windows host to VM ubuntu
+<img width="406" height="61" alt="Screenshot 2026-07-05 130932" src="https://github.com/user-attachments/assets/75685199-4ee8-4df2-abd0-f23e139ed117" />
+<img width="517" height="329" alt="Screenshot 2026-07-05 131046" src="https://github.com/user-attachments/assets/695172dc-bc8f-406b-bcf7-a80d7f65d589" />
+<img width="773" height="348" alt="Screenshot 2026-07-05 131305" src="https://github.com/user-attachments/assets/d5ff0adb-382a-4cd1-bfcb-9bef1b8a03c0" />
+<img width="720" height="346" alt="Screenshot 2026-07-05 131404" src="https://github.com/user-attachments/assets/d5418626-c9af-4936-8f61-fecaf42a7dd9" />
+<img width="556" height="337" alt="Screenshot 2026-07-05 131620" src="https://github.com/user-attachments/assets/6adbceae-1b8c-468c-8e35-6810761c31f1" />
+<img width="486" height="330" alt="Screenshot 2026-07-05 131805" src="https://github.com/user-attachments/assets/154aad9c-18f5-4328-821d-29a61b0906e4" />
+
