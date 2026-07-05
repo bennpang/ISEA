@@ -58,3 +58,9 @@ the ls -la command shows the full list of files along with their hidden attribut
 <img width="617" height="485" alt="image" src="https://github.com/user-attachments/assets/8cd99ee0-6643-46f3-a3fd-54c8b2254691" />
 
 ls -laShows all files in a long list format.Sorts alphabetically by file name.ls -altShows all files in a long list format.Sorts by time modified (newest files at the very top).
+
+
+
+
+When you see tar and bz2 together (like in Books.tar.bz2), you are looking at a two-step archive process common in Linux.tar (The Archive): Bundles multiple files and folders into a single file, preserving directory structures and permissions. It does not compress them to make them smaller.bz2 (The Compression): Compresses that single .tar bundle into a highly condensed format using Bzip2 to save disk space.
+<img width="496" height="608" alt="image" src="https://github.com/user-attachments/assets/9a0edd29-b9ca-4383-b182-eccae51fd391" />
