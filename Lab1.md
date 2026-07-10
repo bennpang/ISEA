@@ -215,6 +215,9 @@ I found my private IP address and verified that the network was set up properly 
 
 <img width="485" height="255" alt="image" src="https://github.com/user-attachments/assets/fe74f402-cc62-471e-b119-3fdd43fb0363" />
 
+<img width="279" height="110" alt="Screenshot 2026-07-11 014434" src="https://github.com/user-attachments/assets/e12ed2a7-6883-4911-95b2-9886572dac7a" />
+
+<img width="373" height="56" alt="image" src="https://github.com/user-attachments/assets/ff1cc420-b3fa-4ee3-9199-f71cb8339ecd" />
 
 
 **Citations**
