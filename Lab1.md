@@ -144,9 +144,8 @@ There were many different ls commands and I had difficulty understanding it. The
 
 <img width="1089" height="662" alt="Screenshot 2026-07-10 204807" src="https://github.com/user-attachments/assets/7992dfcb-38e5-4bcc-b5ea-e4a94d3ef425" />
 
-Moving testfile into testfile2
+<img width="415" height="448" alt="Screenshot 2026-07-10 211415" src="https://github.com/user-attachments/assets/79ca7e61-4e00-4ec2-b875-99c2cf4f5203" />
 
-<img width="410" height="342" alt="Screenshot 2026-07-10 211200" src="https://github.com/user-attachments/assets/3746280f-aebd-4ab6-8de3-236c5b902dd9" />
 
 
 **Citations**
