@@ -133,15 +133,21 @@ In the photo shown here is me trying to make a document in LibreOffice Writer us
 
 <img width="1018" height="1257" alt="image" src="https://github.com/user-attachments/assets/5af5f452-167b-4a42-969e-1294b79b115e" />
 
-
-
 **Terminal Commands**
 
 **CLI Basics and File Operations**
 
 I had the opportunity to revisit with various Linux commands such as "touch" to create a text file, "nano" and "gedit" to edit it, and "cat" and "less" to examine it. Copy "cp" , Move "mv" and removing "rm" files. As well as "man" to use it as a manual for the different commands. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
 
-A new command that I did not understand was the ps -e.
+**Redirecting output to a file**
+
+A new command that I learned that can redirect the output from a script or program, into a file. Try the following:
+
+ lsusb > output_of_lsusb
+
+<img width="311" height="134" alt="Screenshot 2026-07-11 013521" src="https://github.com/user-attachments/assets/0b8bbb65-6dea-4280-8be4-8f04aa951ffb" />
+
+Another new command that I did not understand was the ps -e.
 
 Linux system's active processes are listed using the ps -e command. It offers a brief, static snapshot of all system activity, including user-owned activities and background processes (daemons).(Hill, 2025) 
 
@@ -205,6 +211,9 @@ I found my private IP address and verified that the network was set up properly 
 
 <img width="662" height="450" alt="image" src="https://github.com/user-attachments/assets/d90ae9c2-6204-41d1-90af-e738ec57a508" />
 
+**Source Code Compilation**
+
+<img width="485" height="255" alt="image" src="https://github.com/user-attachments/assets/fe74f402-cc62-471e-b119-3fdd43fb0363" />
 
 
 
