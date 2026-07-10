@@ -93,6 +93,12 @@ In Windows, it was a click away from running the program, however I was unable t
 I used the command sudo apt install ./*.deb which interpret 
 sudo: Runs the command with administrator (root) privileges, which is required to install system software.apt: Calls Advanced Package Tool, the standard package management command-line tool for Debian/Ubuntu systems.install: Instructs apt to install the specified software packages../: Tells the system to look for files in the current directory rather than searching online repositories.*.deb: Uses a wildcard (*) to target every file ending with the .deb extension in that folder.
 
+<img width="1102" height="675" alt="image" src="https://github.com/user-attachments/assets/eeb7f131-a4a1-45f9-8268-b39e10eaf5c0" />
+
+<img width="1018" height="1257" alt="image" src="https://github.com/user-attachments/assets/5af5f452-167b-4a42-969e-1294b79b115e" />
+
+
+
 **Citations**
 
 Deep, A. (2026) SHA-256 explained: Benefits and Applications, What is SHA-256? A practical guide to SHA-256 hashing. Available at: https://www.expressvpn.com/blog/what-is-sha-256/ (Accessed: 10 July 2026). 
