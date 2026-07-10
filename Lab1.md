@@ -86,6 +86,26 @@ I chose to make a clone of my present virtual machine inside VMware Workstation 
 
 Even though I had experience working with virtual machines in the past, I found it difficult to start all over again while after being in National Service for 2 years and not using virtual machines. It was a challenging to setup most of the configuration and I had to google and look up at different website in order to refresh my memory of networking and linux commmands.
 
+**Downloading Software**
+
+**VLC**
+
+Installed VLC media player with "sudo apt install vlc"
+
+<img width="597" height="386" alt="image" src="https://github.com/user-attachments/assets/249213ff-af5f-4f8a-bc47-5c531d19f764" />
+
+<img width="336" height="257" alt="image" src="https://github.com/user-attachments/assets/de9ece6f-be1e-42ee-aa2a-c1deda7b31d9" />
+
+**Opera**
+Installed Opera with the build-in Ubuntu App Center. I felt that it was easy and not complicated at all, I was able to nagivate and download the app easily
+
+<img width="680" height="469" alt="Screenshot 2026-07-11 004740" src="https://github.com/user-attachments/assets/55122685-c3c5-4ea3-beb8-8911dda743c4" />
+
+<img width="680" height="469" alt="Screenshot 2026-07-11 004740" src="https://github.com/user-attachments/assets/a13bc3fe-7e81-4b34-977f-ea6145e9416d" />
+
+<img width="666" height="427" alt="Screenshot 2026-07-11 005131" src="https://github.com/user-attachments/assets/36aa7b6e-0abf-4160-bcd4-70809da40364" />
+
+
 **LibreOffice**
 
 I opened Firefox, and wanted to download an open source office productivity suite developed by The Document Foundation LibreOffice Writer to generate a document, I was able to familiarize myself with the Ubuntu graphical user interface as it was the same as Windows. However, I was faced by two options which is was unfamilar with RPM and DEB
@@ -184,6 +204,8 @@ I found my private IP address and verified that the network was set up properly 
 <img width="308" height="278" alt="image" src="https://github.com/user-attachments/assets/a0c6426a-4186-4420-854f-5bcfb5c1cd2b" />
 
 <img width="662" height="450" alt="image" src="https://github.com/user-attachments/assets/d90ae9c2-6204-41d1-90af-e738ec57a508" />
+
+
 
 
 **Citations**
