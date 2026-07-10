@@ -148,6 +148,7 @@ There were many different ls commands and I had difficulty understanding it. The
 <img width="415" height="448" alt="Screenshot 2026-07-10 211415" src="https://github.com/user-attachments/assets/79ca7e61-4e00-4ec2-b875-99c2cf4f5203" />
 
 **WHOAMI**
+
 I gained knowledge about Linux user permissions and the distinction between a regular user and the root user in this lab section. To compare the two and understand how administrator rights operate, I used the whoami and sudo whoami commands. Additionally, I learned that sudo should only be used when greater rights are required to carry out specific actions after creating a new user account using adduser.
 
 Here is the photo of me trying out the "whoami" and making a new using adduser :
