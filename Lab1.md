@@ -157,7 +157,8 @@ Here is the photo of me trying out the "whoami" and making a new using adduser :
 
 **System Information**
 
-I had the opportunity to experiment with various commands to view hardware, network and system data. I viewed operating system data using "hostnamectl, uname -a, and lsb_release -a". I ran "lsusb", "lspci", and looked at "/proc/cpuinfo" to find out more about the hardware and "ip a" to look at the ip address.
+I had the opportunity to experiment with various commands to view hardware and system data. I viewed operating system data using "hostnamectl, uname -a, and lsb_release -a". I ran "lsusb", "lspci", and looked at "/proc/cpuinfo" to find out more about the hardware.
+
 To have a better understanding of the various methods of accessing system information, I then contrasted the data provided in the terminal with what was shown in Ubuntu's graphical settings.
 
 Here are the photos:
@@ -170,16 +171,14 @@ Here are the photos:
 
 <img width="488" height="322" alt="Screenshot 2026-07-10 220442" src="https://github.com/user-attachments/assets/2170dec5-8ad1-443d-8444-460d68f320e5" />
 
+**Networking**
+
 <img width="441" height="132" alt="Screenshot 2026-07-10 220846" src="https://github.com/user-attachments/assets/7a90b9c7-8722-48a0-b741-60ee7b76464b" />
 
 
 <img width="376" height="287" alt="Screenshot 2026-07-10 221059" src="https://github.com/user-attachments/assets/c4c8f7a2-aa88-4b53-926b-f63c73aa0f9b" />
 
-**Networking**
-
-<img width="416" height="324" alt="image" src="https://github.com/user-attachments/assets/54bb99f6-bf35-4865-9fd8-c0dd725d34b3" />
-
-
+<img width="477" height="578" alt="image" src="https://github.com/user-attachments/assets/842d916e-d6e6-425e-bf96-6fdb850dff2f" />
 
 
 **Citations**
