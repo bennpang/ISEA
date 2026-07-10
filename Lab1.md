@@ -90,8 +90,8 @@ In Windows, it was a click away from running the program, however I was unable t
 
 <img width="1885" height="879" alt="image" src="https://github.com/user-attachments/assets/2826fb80-1df1-42d3-a97e-68718dd80faa" />
 
-
-
+I used the command sudo apt install ./*.deb which interpret 
+sudo: Runs the command with administrator (root) privileges, which is required to install system software.apt: Calls Advanced Package Tool, the standard package management command-line tool for Debian/Ubuntu systems.install: Instructs apt to install the specified software packages../: Tells the system to look for files in the current directory rather than searching online repositories.*.deb: Uses a wildcard (*) to target every file ending with the .deb extension in that folder.
 
 **Citations**
 
