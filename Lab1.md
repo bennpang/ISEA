@@ -173,8 +173,6 @@ Here are the photos:
 
 **Networking**
 
-<img width="441" height="132" alt="Screenshot 2026-07-10 220846" src="https://github.com/user-attachments/assets/7a90b9c7-8722-48a0-b741-60ee7b76464b" />
-
 
 <img width="376" height="287" alt="Screenshot 2026-07-10 221059" src="https://github.com/user-attachments/assets/c4c8f7a2-aa88-4b53-926b-f63c73aa0f9b" />
 
