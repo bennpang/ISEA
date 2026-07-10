@@ -175,11 +175,8 @@ Here are the photos:
 
 <img width="376" height="287" alt="Screenshot 2026-07-10 221059" src="https://github.com/user-attachments/assets/c4c8f7a2-aa88-4b53-926b-f63c73aa0f9b" />
 
-**User Privilege Experiement **
+**Networking**
 
-In this part of the lab, I learned about linux user permissions and the difference between a normal user and the root user. I used the whoami and sudo whoami commands to compare the two and see how administrator privileges work. I also created a new user account using adduser and learned that sudo should only be used when higher permissions are needed to perform certain tasks.
-
-Here are the photos of me trying out the "whoami" and making a new using adduser :
 
 
 **Citations**
