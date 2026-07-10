@@ -1,4 +1,4 @@
-<img width="1141" height="1170" alt="image" src="https://github.com/user-attachments/assets/2d1a2a13-0958-46ea-9c07-48c91a1418f1" />This lab focused on setting up a Linux environment using virtualization software. The objective was to successfully install and configure a virtual machine running Ubuntu Linux while gaining an understanding of virtualization basics, installation procedures, and network configuration.
+This lab focused on setting up a Linux environment using virtualization software. The objective was to successfully install and configure a virtual machine running Ubuntu Linux while gaining an understanding of virtualization basics, installation procedures, and network configuration.
 
 The tools used included:
 
@@ -39,10 +39,21 @@ Depending on your host machine specifications, I am able to more allocate RAM an
 <img width="1141" height="1170" alt="image" src="https://github.com/user-attachments/assets/4ffa825a-263a-46fe-b07a-407f56b43ce2" />
 
 
-After installation, i configured the network settings using NAT so the VM could access the internet.
+<img width="2551" height="1518" alt="image" src="https://github.com/user-attachments/assets/8a2a0d65-e07a-4157-b206-b30f77a3cb73" />
+
+<img width="411" height="279" alt="image" src="https://github.com/user-attachments/assets/4232b7ad-7a29-444b-bbee-c9b98fa90c2e" /> (J, 2024)
+
+<img width="546" height="335" alt="image" src="https://github.com/user-attachments/assets/23ef5d47-41f7-4a1d-a03a-30c0447cd2f1" /> (J, 2024)
+
+
+
+<img width="648" height="487" alt="image" src="https://github.com/user-attachments/assets/04a8cfc2-ae50-424a-8203-df97819d6504" />
+
+<img width="2068" height="1342" alt="image" src="https://github.com/user-attachments/assets/eebdfe98-ab92-4285-b80b-b209546d01b7" />
 
 
 **Citations**
 Deep, A. (2026) SHA-256 explained: Benefits and Applications, What is SHA-256? A practical guide to SHA-256 hashing. Available at: https://www.expressvpn.com/blog/what-is-sha-256/ (Accessed: 10 July 2026). 
 IONOS (2022) What is an ISO file? definition and application of ISO files - IONOS, What is an ISO file? De­f­i­n­i­tion and functions. Available at: https://www.ionos.com/digitalguide/server/know-how/what-is-an-iso-file/ (Accessed: 10 July 2026). 
 AWS (no date) What’s the Difference Between Type 1 and Type 2 Hypervisors? Available at: https://aws.amazon.com/ (Accessed: 10 July 2026).
+J, B. (2024) Choosing the right virtualbox network adapter: Nat, host-only, or bridged? | by Bennison J | Dev Genius, Choosing the Right VirtualBox Network Adapter: NAT, Host-Only, or Bridged? Available at: https://blog.devgenius.io/choosing-the-right-virtualbox-network-adapter-nat-host-only-or-bridged-188003a260de?gi=e57eb801f265 (Accessed: 10 July 2026). 
