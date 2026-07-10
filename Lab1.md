@@ -116,6 +116,9 @@ In the photo shown here is me trying to make a document in LibreOffice Writer us
 
 **Terminal Commands**
 
+I had the opportunity to experiment with various Linux commands and improved my terminal skills. I looked at the files in a directory and checked my location using programs like "pwd" and the other "ls" tools. Additionally, I used "p -e" and "top" to examine the system's active processes. Apart from that, I used "touch" to create a text file, "nano" to edit it, and "cat" and "less" to examine it. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
+
+
 Your Linux system's active processes are listed using the ps -e command. It offers a brief, static snapshot of all system activity, including user-owned activities and background processes (daemons).(Hill, 2025) 
 
 <img width="949" height="571" alt="image" src="https://github.com/user-attachments/assets/1293ca6a-08c6-42ce-9fcb-104d2ae1d268" />
