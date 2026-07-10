@@ -69,6 +69,20 @@ Successfully SSH into my Ubuntu Virtual Machine
 
 <img width="2068" height="1342" alt="image" src="https://github.com/user-attachments/assets/eebdfe98-ab92-4285-b80b-b209546d01b7" />
 
+
+
+**Cloning**
+I chose to make a clone of my present virtual machine inside VMware Workstation since it's crucial to have a backup when working with a new system in case there are problems.
+
+<img width="563" height="589" alt="image" src="https://github.com/user-attachments/assets/f6c8c59b-1359-496e-be74-2bd0d7d71c47" />
+
+<img width="324" height="267" alt="image" src="https://github.com/user-attachments/assets/0c8c4b98-62eb-432a-a6db-50978662b672" />
+
+<img width="326" height="269" alt="image" src="https://github.com/user-attachments/assets/58f1700f-afb2-4c83-bbac-d8c1c3cf1938" />
+
+<img width="324" height="266" alt="image" src="https://github.com/user-attachments/assets/eb53235a-badc-47ec-9fe2-db0b2c5ec51e" />
+
+
 **Personal Reflection**
 
 Even though I had experience working with virtual machines in the past, I found it difficult to start all over again while after being in National Service for 2 years and not using virtual machines. It was a challenging to setup most of the configuration and I had to google and look up at different website in order to refresh my memory of networking and linux commmands.
