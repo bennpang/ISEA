@@ -4,7 +4,7 @@ The tools used included:
 
 VMware Workstation (after initially attempting VirtualBox)
 Ubuntu Desktop ISO
-Git and GitHub
+GitHub
 
 Initially, I downloaded and installed VirtualBox to create an Ubuntu virtual machine. However, I was not familar in troubleshooting and navigation process within VirtualBox which took up alot of time and effort hence I decided to embark the rest of the journey with VMWare Workstation as I am more experienced with the software as I did boot up a handful of virtual machines with it during my Polytechnic days as a student in Computer Engineering.
 
@@ -54,13 +54,22 @@ Other devices on the same network can access this virtual machine because it is 
 
 <img width="546" height="335" alt="image" src="https://github.com/user-attachments/assets/23ef5d47-41f7-4a1d-a03a-30c0447cd2f1" /> (J, 2024)
 
-**SSH**
-To enable SSH into the virtual machine. We will have to change the networking mode of the virtual machine into bridged mode which gives the VM an IP address. 
+**Secure Shell Access **
+
+To enable SSH (Secure Shell) into the virtual machine. I have to change the networking mode of the virtual machine into bridged mode in order to  give the VM an IP address.
+
 A cryptographic network protocol called Secure Shell enables users to safely access, manage, and move files to distant devices over an unprotected network. It is the industry standard for safe remote server administration because it offers robust encryption and authentication. (Gillis, 2024)
 
+I installed SSH into my Ubuntu Operating system
 <img width="648" height="487" alt="image" src="https://github.com/user-attachments/assets/04a8cfc2-ae50-424a-8203-df97819d6504" />
 
+Successfully SSH into my Ubuntu Virtual Machine
+
 <img width="2068" height="1342" alt="image" src="https://github.com/user-attachments/assets/eebdfe98-ab92-4285-b80b-b209546d01b7" />
+
+**Personal Reflection**
+
+Even though I had experience working with virtual machines in the past, I found it difficult to start all over again while after being in National Service for 2 years and not using virtual machines. It was a challenging to setup most of the configuration and I had to google and look up at different website in order to refresh my memory of networking and linux commmands.
 
 
 **Citations**
