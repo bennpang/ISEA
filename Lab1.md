@@ -109,8 +109,16 @@ sudo: Runs the command with administrator (root) privileges, which is required t
 
 <img width="1102" height="675" alt="image" src="https://github.com/user-attachments/assets/eeb7f131-a4a1-45f9-8268-b39e10eaf5c0" />
 
+
+In the photo shown here is me trying to make a document in LibreOffice Writer using Ubuntu.
+
 <img width="1018" height="1257" alt="image" src="https://github.com/user-attachments/assets/5af5f452-167b-4a42-969e-1294b79b115e" />
 
+**Terminal Commands**
+
+Your Linux system's active processes are listed using the ps -e command. It offers a brief, static snapshot of all system activity, including user-owned activities and background processes (daemons).(Hill, 2025) 
+
+<img width="949" height="571" alt="image" src="https://github.com/user-attachments/assets/1293ca6a-08c6-42ce-9fcb-104d2ae1d268" />
 
 
 **Citations**
@@ -126,3 +134,4 @@ Gillis, A.S. (2024) What is SSH (secure shell) and how does it work? | techtarge
 J, B. (2024) Choosing the right virtualbox network adapter: Nat, host-only, or bridged? | by Bennison J | Dev Genius, Choosing the Right VirtualBox Network Adapter: NAT, Host-Only, or Bridged? Available at: https://blog.devgenius.io/choosing-the-right-virtualbox-network-adapter-nat-host-only-or-bridged-188003a260de?gi=e57eb801f265 (Accessed: 10 July 2026). 
 
 Deb vs RPM - dataflair (no date) data-flair.training. Available at: https://data-flair.training/blogs/deb-vs-rpm/ (Accessed: 10 July 2026). 
+Hill, H. (2025) PS command in Linux to View Process Information, OperaVPS. Available at: https://operavps.com/docs/ps-command-linux/ (Accessed: 10 July 2026). 
