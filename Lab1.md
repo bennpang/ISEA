@@ -40,12 +40,17 @@ Depending on your host machine specifications, I am able to more allocate RAM an
 
 <img width="1141" height="1170" alt="image" src="https://github.com/user-attachments/assets/4ffa825a-263a-46fe-b07a-407f56b43ce2" />
 
-
-<img width="2551" height="1518" alt="image" src="https://github.com/user-attachments/assets/8a2a0d65-e07a-4157-b206-b30f77a3cb73" />
+**NAT vs Bridged** 
+NAT's primary function is to enable virtual machines (VMs) to connect to external networks or the internet. When the virtual machine (VM) transmits traffic, VirtualBox converts its internal IP address into the host machine's IP address.
 
 <img width="411" height="279" alt="image" src="https://github.com/user-attachments/assets/4232b7ad-7a29-444b-bbee-c9b98fa90c2e" /> (J, 2024)
 
+Bridged, enable the virtual machine (VM) functions on the network as a distinct, independent device.
+Other devices on the same network can access this virtual machine because it is directly connected to the same network as your host computer.
+
 <img width="546" height="335" alt="image" src="https://github.com/user-attachments/assets/23ef5d47-41f7-4a1d-a03a-30c0447cd2f1" /> (J, 2024)
+
+<img width="2551" height="1518" alt="image" src="https://github.com/user-attachments/assets/8a2a0d65-e07a-4157-b206-b30f77a3cb73" />
 
 
 
