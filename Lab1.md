@@ -116,7 +116,8 @@ In the photo shown here is me trying to make a document in LibreOffice Writer us
 
 **Terminal Commands**
 
-I had the opportunity to revisit with various Linux commands such as "touch" to create a text file, "nano" and gedit to edit it, and "cat" and "less" to examine it. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
+I had the opportunity to revisit with various Linux commands such as "touch" to create a text file, "nano" and gedit to edit it, and "cat" and "less" to examine it. As well as "man" to use it as a manual for the different commands. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
+
 A new command that I did not understand was the ps -e.
 
 Linux system's active processes are listed using the ps -e command. It offers a brief, static snapshot of all system activity, including user-owned activities and background processes (daemons).(Hill, 2025) 
@@ -126,6 +127,12 @@ By combining it with top i was able to view the top process running on my system
 <img width="949" height="571" alt="image" src="https://github.com/user-attachments/assets/1293ca6a-08c6-42ce-9fcb-104d2ae1d268" />
 
 <img width="897" height="549" alt="image" src="https://github.com/user-attachments/assets/cb197d5f-ee1f-4aa8-beb0-3c74ca8552a1" />
+
+There were many different ls commands and i had difficulty understanding it. Therfore the manual for ls commands really helped me in understading it.
+
+
+<img width="1089" height="662" alt="Screenshot 2026-07-10 204807" src="https://github.com/user-attachments/assets/7992dfcb-38e5-4bcc-b5ea-e4a94d3ef425" />
+
 
 
 <img width="1779" height="427" alt="image" src="https://github.com/user-attachments/assets/7dfbbaef-9e53-47de-a3a7-940a47d35b11" />
