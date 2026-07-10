@@ -138,6 +138,13 @@ By combining it with top i was able to view the top process running on my system
 
 <img width="395" height="197" alt="Screenshot 2026-07-10 203120" src="https://github.com/user-attachments/assets/22f27f9a-991e-42fa-a97f-e79f876be01f" />
 
+<img width="537" height="151" alt="image" src="https://github.com/user-attachments/assets/7df2dc37-789a-4518-a2d5-d2f4ced72e7d" />
+
+
+ <img width="889" height="421" alt="image" src="https://github.com/user-attachments/assets/4ab16565-82bb-489a-bce4-0cf39348cc3f" />
+
+
+
 **Citations**
 
 Deep, A. (2026) SHA-256 explained: Benefits and Applications, What is SHA-256? A practical guide to SHA-256 hashing. Available at: https://www.expressvpn.com/blog/what-is-sha-256/ (Accessed: 10 July 2026). 
