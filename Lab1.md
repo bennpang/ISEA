@@ -14,4 +14,7 @@ Firstly, installation of VMware Workstation. It is a powerful desktop virtualiza
 
 <img width="654" height="379" alt="image" src="https://github.com/user-attachments/assets/e118f17f-6463-4508-91bd-9ae2032f3792" /> AWS (no date) What’s the Difference Between Type 1 and Type 2 Hypervisors? Available at: https://aws.amazon.com/ (Accessed: 10 July 2026).
 
+**Downloads** 
 <img width="400" height="565" alt="image" src="https://github.com/user-attachments/assets/89036726-713d-4317-8525-0c939d173ef6" />
+
+<img width="394" height="510" alt="image" src="https://github.com/user-attachments/assets/4979b4a6-28a3-4291-820a-c1a0a0721dfa" />
