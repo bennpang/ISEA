@@ -1,4 +1,4 @@
-This lab focused on setting up a Linux environment using virtualization software. The objective was to successfully install and configure a virtual machine running Ubuntu Linux while gaining an understanding of virtualization basics, installation procedures, and network configuration.
+<img width="1141" height="1170" alt="image" src="https://github.com/user-attachments/assets/2d1a2a13-0958-46ea-9c07-48c91a1418f1" />This lab focused on setting up a Linux environment using virtualization software. The objective was to successfully install and configure a virtual machine running Ubuntu Linux while gaining an understanding of virtualization basics, installation procedures, and network configuration.
 
 The tools used included:
 
@@ -21,13 +21,25 @@ Firstly, installation of VMware Workstation. It is a powerful desktop virtualiza
 
 **Verifying the intergrity of the ISO using SHA-256**
 
-An ISO in software, ISO typically refers to an ISO file (or ISO image), which is a single digital file that is an exact, uncompressed copy of a physical disc like a CD, DVD, or Blu-ray. (IONOS, 2022)
+An ISO file, also known as an ISO image, is a single digital file that contains an exact, uncompressed copy of the contents of a physical optical disc, such as a CD, DVD, or Blu-ray (IONOS, 2022).
 
-In this scenario, we will use this Ubuntu operating system image to run our virtual machine. Before executing of any software the best practice will be to check the intergrity of the file. To do that I would have to check the hash values of the file downloaded and the orginal hash values of the image from the offical website is the same. 
+In this scenario, the Ubuntu ISO image will be used to create and run a virtual machine. Before using any downloaded software, it is considered best practice to verify the integrity of the file. This is done by comparing the SHA-256 hash value generated from the downloaded ISO with the official SHA-256 hash published on the Ubuntu website. If both hash values match, it confirms that the file has not been altered, corrupted, or tampered with during the download process.
 
-SHA-256 (Secure Hash Algorithm 256-bit) is a widely used cryptographic hashing function. It takes an input of any size and translates it into a fixed, 256-bit (32-byte) digital fingerprint. Regardless of the input data, the output is always exactly 64 hexadecimal characters long.(Deep, 2026)
+SHA-256 (Secure Hash Algorithm 256-bit) is a widely used cryptographic hash function that converts data of any size into a unique 256-bit (32-byte) hash value. The resulting output is always represented as a 64-character hexadecimal string, regardless of the size of the original input (Deep, 2026).
+
 
 <img width="2242" height="904" alt="image" src="https://github.com/user-attachments/assets/abfc2a89-b458-4978-9608-1fd35d9b72b0" />
+
+**Virtual Machine Creation**
+After launching VMware Workstation, crtl+N to create a new typical virtual machine inside the workstation.
+
+<img width="637" height="625" alt="image" src="https://github.com/user-attachments/assets/ba57536a-a145-46bb-9169-8c93886b09a5" />
+
+Depending on your host machine specifications, I am able to more allocate RAM and storage to my virtual machine without comprimising my own systems performance.
+<img width="1141" height="1170" alt="image" src="https://github.com/user-attachments/assets/4ffa825a-263a-46fe-b07a-407f56b43ce2" />
+
+
+After installation, i configured the network settings using NAT so the VM could access the internet.
 
 
 **Citations**
