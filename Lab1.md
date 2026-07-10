@@ -173,10 +173,14 @@ Here are the photos:
 
 **Networking**
 
+I found my private IP address and verified that the network was set up properly by using the ip a command. I used Google's DNS server (8.8.8.8) and ping to verify internet connectivity. I then added a custom hostname alias to the /etc/hosts file and used the ping command to confirm that it functioned. Finally, I investigated the nslookup and whois commands to obtain domain information and see the relationship between IP addresses and domain names.
 
 <img width="376" height="287" alt="Screenshot 2026-07-10 221059" src="https://github.com/user-attachments/assets/c4c8f7a2-aa88-4b53-926b-f63c73aa0f9b" />
 
 <img width="477" height="578" alt="image" src="https://github.com/user-attachments/assets/842d916e-d6e6-425e-bf96-6fdb850dff2f" />
+
+<img width="609" height="400" alt="Screenshot 2026-07-05 085608" src="https://github.com/user-attachments/assets/8582828e-85cc-48fe-92e7-a2b994fda50b" />
+
 
 
 **Citations**
