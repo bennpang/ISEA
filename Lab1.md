@@ -69,9 +69,8 @@ Successfully SSH into my Ubuntu Virtual Machine
 
 <img width="2068" height="1342" alt="image" src="https://github.com/user-attachments/assets/eebdfe98-ab92-4285-b80b-b209546d01b7" />
 
-
-
 **Cloning**
+
 I chose to make a clone of my present virtual machine inside VMware Workstation since it's crucial to have a backup when working with a new system in case there are problems.
 
 <img width="563" height="589" alt="image" src="https://github.com/user-attachments/assets/f6c8c59b-1359-496e-be74-2bd0d7d71c47" />
