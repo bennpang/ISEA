@@ -177,6 +177,9 @@ Here are the photos:
 
 **Networking**
 
+<img width="416" height="324" alt="image" src="https://github.com/user-attachments/assets/54bb99f6-bf35-4865-9fd8-c0dd725d34b3" />
+
+
 
 
 **Citations**
