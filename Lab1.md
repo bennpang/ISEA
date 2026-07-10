@@ -141,7 +141,7 @@ I had the opportunity to revisit with various Linux commands such as "touch" to 
 
 **Redirecting output to a file**
 
-A new command that I learned that can redirect the output from a script or program, into a file. Try the following:
+A new command that I learned that can redirect the output from a script or program, into a file using ">"
 
  lsusb > output_of_lsusb
 
