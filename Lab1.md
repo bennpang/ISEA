@@ -10,19 +10,27 @@ Initially, I downloaded and installed VirtualBox to create an Ubuntu virtual mac
 
 <img width="440" height="289" alt="Screenshot 2026-07-04 155710" src="https://github.com/user-attachments/assets/f01d0eb0-bae1-42a0-a28d-8477f2fe4b1d" />
 
-Firstly, installation of VMware Workstation. It is a powerful desktop virtualization application that allows you to run multiple, isolated operating systems (such as Windows, Linux, or BSD) simultaneously on a single physical PC.  It functions as a "Type 2 hypervisor," A type 2 hypervisor, or hosted hypervisor, interacts with the underlying host machine hardware through the host machine’s operating system. You install it on the machine, where it runs as an application. AWS (no date) What’s the Difference Between Type 1 and Type 2 Hypervisors? Available at: https://aws.amazon.com/ (Accessed: 10 July 2026).
+Firstly, installation of VMware Workstation. It is a powerful desktop virtualization application that allows you to run multiple, isolated operating systems (such as Windows, Linux, or BSD) simultaneously on a single physical PC.  It functions as a "Type 2 hypervisor," A type 2 hypervisor, or hosted hypervisor, interacts with the underlying host machine hardware through the host machine’s operating system. You install it on the machine, where it runs as an application.(AWS, n.d)
 
-<img width="654" height="379" alt="image" src="https://github.com/user-attachments/assets/e118f17f-6463-4508-91bd-9ae2032f3792" />AWS (no date) What’s the Difference Between Type 1 and Type 2 Hypervisors? Available at: https://aws.amazon.com/ (Accessed: 10 July 2026).
+<img width="654" height="379" alt="image" src="https://github.com/user-attachments/assets/e118f17f-6463-4508-91bd-9ae2032f3792" /> (AWS, n.d)
 
 **Downloads** 
 
 <img width="400" height="565" alt="image" src="https://github.com/user-attachments/assets/89036726-713d-4317-8525-0c939d173ef6" />
 <img width="394" height="510" alt="image" src="https://github.com/user-attachments/assets/4979b4a6-28a3-4291-820a-c1a0a0721dfa" />
 
-**Verifying the authenticity of the ISO**
+**Verifying the intergrity of the ISO using SHA-256**
 
-An ISO in software, ISO typically refers to an ISO file (or ISO image), which is a single digital file that is an exact, uncompressed copy of a physical disc like a CD, DVD, or Blu-ray.
-IONOS (2022) What is an ISO file? definition and application of ISO files - IONOS, What is an ISO file? De­f­i­n­i­tion and functions. Available at: https://www.ionos.com/digitalguide/server/know-how/what-is-an-iso-file/ (Accessed: 10 July 2026). 
-In this scenario, we will use this Ubuntu operating system image to run our virtual machine. Before executing of any software the best practice will be to check the authenticity of the file. To do that I would have to check the hash values of the file downloaded and the orginal hash values of the image from the offical website.
+An ISO in software, ISO typically refers to an ISO file (or ISO image), which is a single digital file that is an exact, uncompressed copy of a physical disc like a CD, DVD, or Blu-ray. (IONOS, 2022)
+
+In this scenario, we will use this Ubuntu operating system image to run our virtual machine. Before executing of any software the best practice will be to check the intergrity of the file. To do that I would have to check the hash values of the file downloaded and the orginal hash values of the image from the offical website is the same. 
+
+SHA-256 (Secure Hash Algorithm 256-bit) is a widely used cryptographic hashing function. It takes an input of any size and translates it into a fixed, 256-bit (32-byte) digital fingerprint. Regardless of the input data, the output is always exactly 64 hexadecimal characters long.(Deep, 2026)
 
 <img width="2242" height="904" alt="image" src="https://github.com/user-attachments/assets/abfc2a89-b458-4978-9608-1fd35d9b72b0" />
+
+
+**Citations**
+Deep, A. (2026) SHA-256 explained: Benefits and Applications, What is SHA-256? A practical guide to SHA-256 hashing. Available at: https://www.expressvpn.com/blog/what-is-sha-256/ (Accessed: 10 July 2026). 
+IONOS (2022) What is an ISO file? definition and application of ISO files - IONOS, What is an ISO file? De­f­i­n­i­tion and functions. Available at: https://www.ionos.com/digitalguide/server/know-how/what-is-an-iso-file/ (Accessed: 10 July 2026). 
+AWS (no date) What’s the Difference Between Type 1 and Type 2 Hypervisors? Available at: https://aws.amazon.com/ (Accessed: 10 July 2026).
