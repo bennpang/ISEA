@@ -21,8 +21,8 @@ Firstly, installation of VMware Workstation. It is a powerful desktop virtualiza
 
 **Verifying the authenticity of the ISO**
 
-In software, ISO typically refers to an ISO file (or ISO image), which is a single digital file that is an exact, uncompressed copy of a physical disc like a CD, DVD, or Blu-ray.
+An ISO in software, ISO typically refers to an ISO file (or ISO image), which is a single digital file that is an exact, uncompressed copy of a physical disc like a CD, DVD, or Blu-ray.
 IONOS (2022) What is an ISO file? definition and application of ISO files - IONOS, What is an ISO file? De­f­i­n­i­tion and functions. Available at: https://www.ionos.com/digitalguide/server/know-how/what-is-an-iso-file/ (Accessed: 10 July 2026). 
+In this scenario, we will use this Ubuntu operating system image to run our virtual machine. Before executing of any software the best practice will be to check the authenticity of the file. To do that I would have to check the hash values of the file downloaded and the orginal hash values of the image from the offical website.
 
 <img width="2242" height="904" alt="image" src="https://github.com/user-attachments/assets/abfc2a89-b458-4978-9608-1fd35d9b72b0" />
-<img width="2242" height="904" alt="image" src="https://github.com/user-attachments/assets/a6447d29-6642-4f6b-a68f-c9004218253b" />
