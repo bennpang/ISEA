@@ -148,10 +148,17 @@ There were many different ls commands and I had difficulty understanding it. The
 
 <img width="415" height="448" alt="Screenshot 2026-07-10 211415" src="https://github.com/user-attachments/assets/79ca7e61-4e00-4ec2-b875-99c2cf4f5203" />
 
+**System Information**
+I had the opportunity to experiment with various commands to view hardware and system data. I viewed operating system data using hostnamectl, uname -a, and lsb_release -a. I ran lsusb, lspci, and looked at /proc/cpuinfo to find out more about the hardware. To have a better understanding of the various methods of accessing system information, I then contrasted the data provided in the terminal with what was shown in Ubuntu's graphical settings.
 
-System Information
-
+Here are the photos:
 <img width="517" height="238" alt="Screenshot 2026-07-10 212509" src="https://github.com/user-attachments/assets/daafde6e-27be-47b0-b34b-a75b3ee843c2" />
+
+
+**User Privilege Experiement **
+In this part of the lab, I learned about linux user permissions and the difference between a normal user and the root user. I used the whoami and sudo whoami commands to compare the two and see how administrator privileges work. I also created a new user account using adduser and learned that sudo should only be used when higher permissions are needed to perform certain tasks.
+
+Here are the photos of me trying out the "whoami" and making a new using adduser :
 
 
 **Citations**
