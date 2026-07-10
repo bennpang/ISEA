@@ -134,10 +134,7 @@ Your Linux system's active processes are listed using the ps -e command. It offe
 
 <img width="2169" height="1318" alt="image" src="https://github.com/user-attachments/assets/bedc4fc0-a75b-440e-9d11-3e57e0fc4253" />
 
-<img width="537" height="151" alt="image" src="https://github.com/user-attachments/assets/a258f702-654d-46f3-8ab4-e9b4886b8cb8" />
-
-
-
+<img width="395" height="197" alt="Screenshot 2026-07-10 203120" src="https://github.com/user-attachments/assets/22f27f9a-991e-42fa-a97f-e79f876be01f" />
 
 **Citations**
 
