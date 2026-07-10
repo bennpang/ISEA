@@ -18,3 +18,7 @@ Firstly, installation of VMware Workstation. It is a powerful desktop virtualiza
 
 <img width="400" height="565" alt="image" src="https://github.com/user-attachments/assets/89036726-713d-4317-8525-0c939d173ef6" />
 <img width="394" height="510" alt="image" src="https://github.com/user-attachments/assets/4979b4a6-28a3-4291-820a-c1a0a0721dfa" />
+
+**Verifying the authenticity of the iso**
+In software, ISO typically refers to an ISO file (or ISO image), which is a single digital file that is an exact, uncompressed copy of a physical disc like a CD, DVD, or Blu-ray.
+IONOS (2022) What is an ISO file? definition and application of ISO files - IONOS, What is an ISO file? De­f­i­n­i­tion and functions. Available at: https://www.ionos.com/digitalguide/server/know-how/what-is-an-iso-file/ (Accessed: 10 July 2026). 
