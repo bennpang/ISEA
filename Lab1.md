@@ -3,7 +3,9 @@ This lab focused on setting up a Linux environment using virtualization software
 The tools used included:
 
 VMware Workstation (after initially attempting VirtualBox)
+
 Ubuntu Desktop ISO
+
 GitHub
 
 Initially, I downloaded and installed VirtualBox to create an Ubuntu virtual machine. However, I was not familar in troubleshooting and navigation process within VirtualBox which took up alot of time and effort hence I decided to embark the rest of the journey with VMWare Workstation as I am more experienced with the software as I did boot up a handful of virtual machines with it during my Polytechnic days as a student in Computer Engineering.
