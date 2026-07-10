@@ -40,19 +40,23 @@ Depending on your host machine specifications, I am able to more allocate RAM an
 
 <img width="1141" height="1170" alt="image" src="https://github.com/user-attachments/assets/4ffa825a-263a-46fe-b07a-407f56b43ce2" />
 
+
+<img width="2551" height="1518" alt="image" src="https://github.com/user-attachments/assets/8a2a0d65-e07a-4157-b206-b30f77a3cb73" />
+
 **NAT vs Bridged** 
-NAT's primary function is to enable virtual machines (VMs) to connect to external networks or the internet. When the virtual machine (VM) transmits traffic, VirtualBox converts its internal IP address into the host machine's IP address.
+
+NAT's primary function is to enable virtual machines (VMs) to connect to external networks or the internet. When the virtual machine (VM) transmits traffic, VirtualBox converts its internal IP address into the host machine's IP address.(J, 2024)
 
 <img width="411" height="279" alt="image" src="https://github.com/user-attachments/assets/4232b7ad-7a29-444b-bbee-c9b98fa90c2e" /> (J, 2024)
 
 Bridged, enable the virtual machine (VM) functions on the network as a distinct, independent device.
-Other devices on the same network can access this virtual machine because it is directly connected to the same network as your host computer.
+Other devices on the same network can access this virtual machine because it is directly connected to the same network as your host computer. (J, 2024)
 
 <img width="546" height="335" alt="image" src="https://github.com/user-attachments/assets/23ef5d47-41f7-4a1d-a03a-30c0447cd2f1" /> (J, 2024)
 
-<img width="2551" height="1518" alt="image" src="https://github.com/user-attachments/assets/8a2a0d65-e07a-4157-b206-b30f77a3cb73" />
-
-
+**SSH**
+To enable SSH into the virtual machine. We will have to change the networking mode of the virtual machine into bridged mode which gives the VM an IP address. 
+A cryptographic network protocol called Secure Shell enables users to safely access, manage, and move files to distant devices over an unprotected network. It is the industry standard for safe remote server administration because it offers robust encryption and authentication. (Gillis, 2024)
 
 <img width="648" height="487" alt="image" src="https://github.com/user-attachments/assets/04a8cfc2-ae50-424a-8203-df97819d6504" />
 
@@ -66,5 +70,7 @@ Deep, A. (2026) SHA-256 explained: Benefits and Applications, What is SHA-256? A
 IONOS (2022) What is an ISO file? definition and application of ISO files - IONOS, What is an ISO file? De­f­i­n­i­tion and functions. Available at: https://www.ionos.com/digitalguide/server/know-how/what-is-an-iso-file/ (Accessed: 10 July 2026). 
 
 AWS (no date) What’s the Difference Between Type 1 and Type 2 Hypervisors? Available at: https://aws.amazon.com/ (Accessed: 10 July 2026).
+
+Gillis, A.S. (2024) What is SSH (secure shell) and how does it work? | techtarget, https://www.techtarget.com/. Available at: https://www.techtarget.com/searchsecurity/definition/Secure-Shell (Accessed: 10 July 2026). 
 
 J, B. (2024) Choosing the right virtualbox network adapter: Nat, host-only, or bridged? | by Bennison J | Dev Genius, Choosing the Right VirtualBox Network Adapter: NAT, Host-Only, or Bridged? Available at: https://blog.devgenius.io/choosing-the-right-virtualbox-network-adapter-nat-host-only-or-bridged-188003a260de?gi=e57eb801f265 (Accessed: 10 July 2026). 
