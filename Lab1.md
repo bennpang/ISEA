@@ -116,7 +116,7 @@ In the photo shown here is me trying to make a document in LibreOffice Writer us
 
 **Terminal Commands**
 
-I had the opportunity to experiment with various Linux commands and improved my terminal skills. Additionally, I used "p -e" and "top" to examine the system's active processes. Apart from that, I used "touch" to create a text file, "nano" to edit it, and "cat" and "less" to examine it. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
+IAp had the opportunity to experiment with various Linux commands and improved my terminal skills. Additionally, I used "p -e" and "top" to examine the system's active processes. Apart from that, I used "touch" to create a text file, "nano" to edit it, and "cat" and "less" to examine it. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
 
 
 Your Linux system's active processes are listed using the ps -e command. It offers a brief, static snapshot of all system activity, including user-owned activities and background processes (daemons).(Hill, 2025) 
@@ -129,6 +129,12 @@ Your Linux system's active processes are listed using the ps -e command. It offe
 <img width="1779" height="427" alt="image" src="https://github.com/user-attachments/assets/7dfbbaef-9e53-47de-a3a7-940a47d35b11" />
 
 <img width="919" height="750" alt="image" src="https://github.com/user-attachments/assets/7ae1ade3-de26-401e-876f-ca484a363575" />
+
+<img width="2169" height="1318" alt="image" src="https://github.com/user-attachments/assets/bedc4fc0-a75b-440e-9d11-3e57e0fc4253" />
+
+<img width="537" height="151" alt="image" src="https://github.com/user-attachments/assets/a258f702-654d-46f3-8ab4-e9b4886b8cb8" />
+
+
 
 
 **Citations**
