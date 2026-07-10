@@ -114,6 +114,8 @@ In the photo shown here is me trying to make a document in LibreOffice Writer us
 
 <img width="1018" height="1257" alt="image" src="https://github.com/user-attachments/assets/5af5f452-167b-4a42-969e-1294b79b115e" />
 
+
+
 **Terminal Commands**
 
 I had the opportunity to revisit with various Linux commands such as "touch" to create a text file, "nano" and gedit to edit it, and "cat" and "less" to examine it. As well as "man" to use it as a manual for the different commands. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
@@ -128,13 +130,6 @@ By combining it with top i was able to view the top process running on my system
 
 <img width="897" height="549" alt="image" src="https://github.com/user-attachments/assets/cb197d5f-ee1f-4aa8-beb0-3c74ca8552a1" />
 
-There were many different ls commands and i had difficulty understanding it. Therfore the manual for ls commands really helped me in understading it.
-
-
-<img width="1089" height="662" alt="Screenshot 2026-07-10 204807" src="https://github.com/user-attachments/assets/7992dfcb-38e5-4bcc-b5ea-e4a94d3ef425" />
-
-
-
 <img width="1779" height="427" alt="image" src="https://github.com/user-attachments/assets/7dfbbaef-9e53-47de-a3a7-940a47d35b11" />
 
 <img width="919" height="750" alt="image" src="https://github.com/user-attachments/assets/7ae1ade3-de26-401e-876f-ca484a363575" />
@@ -145,8 +140,12 @@ There were many different ls commands and i had difficulty understanding it. The
 
 <img width="395" height="197" alt="Screenshot 2026-07-10 203120" src="https://github.com/user-attachments/assets/22f27f9a-991e-42fa-a97f-e79f876be01f" />
 
-<img width="537" height="151" alt="image" src="https://github.com/user-attachments/assets/7df2dc37-789a-4518-a2d5-d2f4ced72e7d" />
+There were many different ls commands and I had difficulty understanding it. Therefore, the manual for ls commands really helped me in understanding it.
 
+<img width="1089" height="662" alt="Screenshot 2026-07-10 204807" src="https://github.com/user-attachments/assets/7992dfcb-38e5-4bcc-b5ea-e4a94d3ef425" />
+
+
+<img width="537" height="151" alt="image" src="https://github.com/user-attachments/assets/7df2dc37-789a-4518-a2d5-d2f4ced72e7d" />
 
  <img width="889" height="421" alt="image" src="https://github.com/user-attachments/assets/4ab16565-82bb-489a-bce4-0cf39348cc3f" />
 
