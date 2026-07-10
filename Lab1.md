@@ -73,6 +73,14 @@ Successfully SSH into my Ubuntu Virtual Machine
 
 Even though I had experience working with virtual machines in the past, I found it difficult to start all over again while after being in National Service for 2 years and not using virtual machines. It was a challenging to setup most of the configuration and I had to google and look up at different website in order to refresh my memory of networking and linux commmands.
 
+LibreOffice
+I opened Firefox, downloaded LibreOffice Writer to generate a document, used the files application to navigate folders, and accessed the Ubuntu App Center to learn more about the Ubuntu desktop environment. I was able to familiarize myself with the Ubuntu graphical user interface and its built-in apps thanks to this. However, I was faced by two options which is was unfamilar with RPM and DEB
+
+RPM and DEB are native software package formats for different Linux distribution families. You cannot directly install a DEB file on an RPM-based system, or vice versa. They contain the same types of files but use different metadata and installation tools.
+
+I'm downloading an Ubuntu program (LibreOffice) in this picture.
+<img width="911" height="545" alt="image" src="https://github.com/user-attachments/assets/66b4407a-8d88-4528-bb0e-2b5fdc53efdc" />
+
 
 **Citations**
 
