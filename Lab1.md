@@ -73,15 +73,24 @@ Successfully SSH into my Ubuntu Virtual Machine
 
 Even though I had experience working with virtual machines in the past, I found it difficult to start all over again while after being in National Service for 2 years and not using virtual machines. It was a challenging to setup most of the configuration and I had to google and look up at different website in order to refresh my memory of networking and linux commmands.
 
-LibreOffice
+**LibreOffice**
 
-I opened Firefox, and wanted to download an open source office productivity suite developed by The Document FoundationLibreOffice Writer to generate a document, used the files application to navigate folders, I was able to familiarize myself with the Ubuntu graphical user interface and its built-in apps thanks to this. However, I was faced by two options which is was unfamilar with RPM and DEB
+I opened Firefox, and wanted to download an open source office productivity suite developed by The Document Foundation LibreOffice Writer to generate a document, I was able to familiarize myself with the Ubuntu graphical user interface as it was the same as Windows. However, I was faced by two options which is was unfamilar with RPM and DEB
 <img width="911" height="545" alt="image" src="https://github.com/user-attachments/assets/66b4407a-8d88-4528-bb0e-2b5fdc53efdc" />
 
 <img width="418" height="374" alt="image" src="https://github.com/user-attachments/assets/49c54125-b0b0-440a-829b-f94d02a21280" /> (DataFlair Team, n.d)
+
 After I understood the difference between the two downloads I was able to choose DEB extention as I was installing it onto a Ubuntu System.
-I'm downloading an Ubuntu program (LibreOffice) in this picture.
+
 <img width="448" height="277" alt="image" src="https://github.com/user-attachments/assets/45e360ea-c00a-4f40-8f3b-fdca019966fd" />
+
+In Windows, it was a click away from running the program, however I was unable to comprehend what was going on as it wasn't just a click to run the program. So I had look for the file inside of the directory and install the software from the command line interface (CLI).
+
+<img width="1924" height="259" alt="image" src="https://github.com/user-attachments/assets/725a82f5-726e-4fc4-84f2-6e26db850465" />
+
+<img width="1885" height="879" alt="image" src="https://github.com/user-attachments/assets/2826fb80-1df1-42d3-a97e-68718dd80faa" />
+
+
 
 
 **Citations**
@@ -95,3 +104,5 @@ AWS (no date) What’s the Difference Between Type 1 and Type 2 Hypervisors? Ava
 Gillis, A.S. (2024) What is SSH (secure shell) and how does it work? | techtarget, https://www.techtarget.com/. Available at: https://www.techtarget.com/searchsecurity/definition/Secure-Shell (Accessed: 10 July 2026). 
 
 J, B. (2024) Choosing the right virtualbox network adapter: Nat, host-only, or bridged? | by Bennison J | Dev Genius, Choosing the Right VirtualBox Network Adapter: NAT, Host-Only, or Bridged? Available at: https://blog.devgenius.io/choosing-the-right-virtualbox-network-adapter-nat-host-only-or-bridged-188003a260de?gi=e57eb801f265 (Accessed: 10 July 2026). 
+
+Deb vs RPM - dataflair (no date) data-flair.training. Available at: https://data-flair.training/blogs/deb-vs-rpm/ (Accessed: 10 July 2026). 
