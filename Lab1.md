@@ -31,11 +31,13 @@ SHA-256 (Secure Hash Algorithm 256-bit) is a widely used cryptographic hash func
 <img width="2242" height="904" alt="image" src="https://github.com/user-attachments/assets/abfc2a89-b458-4978-9608-1fd35d9b72b0" />
 
 **Virtual Machine Creation**
+
 After launching VMware Workstation, crtl+N to create a new typical virtual machine inside the workstation.
 
 <img width="637" height="625" alt="image" src="https://github.com/user-attachments/assets/ba57536a-a145-46bb-9169-8c93886b09a5" />
 
 Depending on your host machine specifications, I am able to more allocate RAM and storage to my virtual machine without comprimising my own systems performance.
+
 <img width="1141" height="1170" alt="image" src="https://github.com/user-attachments/assets/4ffa825a-263a-46fe-b07a-407f56b43ce2" />
 
 
@@ -53,7 +55,11 @@ Depending on your host machine specifications, I am able to more allocate RAM an
 
 
 **Citations**
+
 Deep, A. (2026) SHA-256 explained: Benefits and Applications, What is SHA-256? A practical guide to SHA-256 hashing. Available at: https://www.expressvpn.com/blog/what-is-sha-256/ (Accessed: 10 July 2026). 
+
 IONOS (2022) What is an ISO file? definition and application of ISO files - IONOS, What is an ISO file? De­f­i­n­i­tion and functions. Available at: https://www.ionos.com/digitalguide/server/know-how/what-is-an-iso-file/ (Accessed: 10 July 2026). 
+
 AWS (no date) What’s the Difference Between Type 1 and Type 2 Hypervisors? Available at: https://aws.amazon.com/ (Accessed: 10 July 2026).
+
 J, B. (2024) Choosing the right virtualbox network adapter: Nat, host-only, or bridged? | by Bennison J | Dev Genius, Choosing the Right VirtualBox Network Adapter: NAT, Host-Only, or Bridged? Available at: https://blog.devgenius.io/choosing-the-right-virtualbox-network-adapter-nat-host-only-or-bridged-188003a260de?gi=e57eb801f265 (Accessed: 10 July 2026). 
