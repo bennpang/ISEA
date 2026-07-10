@@ -117,7 +117,10 @@ In the photo shown here is me trying to make a document in LibreOffice Writer us
 
 
 **Terminal Commands**
-1. I had the opportunity to revisit with various Linux commands such as "touch" to create a text file, "nano" and "gedit" to edit it, and "cat" and "less" to examine it. Copy "cp" , Move "mv" and removing "rm" files. As well as "man" to use it as a manual for the different commands. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
+
+**CLI Basics and File Operations**
+
+I had the opportunity to revisit with various Linux commands such as "touch" to create a text file, "nano" and "gedit" to edit it, and "cat" and "less" to examine it. Copy "cp" , Move "mv" and removing "rm" files. As well as "man" to use it as a manual for the different commands. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
 
 A new command that I did not understand was the ps -e.
 
@@ -145,6 +148,10 @@ There were many different ls commands and I had difficulty understanding it. The
 
 <img width="415" height="448" alt="Screenshot 2026-07-10 211415" src="https://github.com/user-attachments/assets/79ca7e61-4e00-4ec2-b875-99c2cf4f5203" />
 
+
+System Information
+
+<img width="517" height="238" alt="Screenshot 2026-07-10 212509" src="https://github.com/user-attachments/assets/daafde6e-27be-47b0-b34b-a75b3ee843c2" />
 
 
 **Citations**
