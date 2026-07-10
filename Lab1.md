@@ -154,7 +154,20 @@ I had the opportunity to experiment with various commands to view hardware, netw
 To have a better understanding of the various methods of accessing system information, I then contrasted the data provided in the terminal with what was shown in Ubuntu's graphical settings.
 
 Here are the photos:
-<img width="517" height="238" alt="Screenshot 2026-07-10 212509" src="https://github.com/user-attachments/assets/daafde6e-27be-47b0-b34b-a75b3ee843c2" />
+
+<img width="523" height="299" alt="Screenshot 2026-07-10 220337" src="https://github.com/user-attachments/assets/a46e9419-1b2c-4c11-8558-a5edea56d719" />
+
+<img width="535" height="450" alt="Screenshot 2026-07-10 220348" src="https://github.com/user-attachments/assets/3192ce7e-a315-45e9-a0f5-ffb8f1655560" />
+
+<img width="1085" height="665" alt="Screenshot 2026-07-10 220311" src="https://github.com/user-attachments/assets/4fcd6ea8-3a09-400e-9469-fce998f6becd" />
+
+<img width="488" height="322" alt="Screenshot 2026-07-10 220442" src="https://github.com/user-attachments/assets/2170dec5-8ad1-443d-8444-460d68f320e5" />
+
+<img width="441" height="132" alt="Screenshot 2026-07-10 220846" src="https://github.com/user-attachments/assets/7a90b9c7-8722-48a0-b741-60ee7b76464b" />
+
+<img width="376" height="287" alt="Screenshot 2026-07-10 221059" src="https://github.com/user-attachments/assets/c4c8f7a2-aa88-4b53-926b-f63c73aa0f9b" />
+
+
 
 
 **User Privilege Experiement **
