@@ -118,6 +118,7 @@ In the photo shown here is me trying to make a document in LibreOffice Writer us
 
 I had the opportunity to revisit with various Linux commands such as "touch" to create a text file, "nano" and gedit to edit it, and "cat" and "less" to examine it. I now feel more comfortable using basic command-line operations and navigating the Linux file system thanks to these exercises.
 A new command that I did not understand was the ps -e.
+
 Linux system's active processes are listed using the ps -e command. It offers a brief, static snapshot of all system activity, including user-owned activities and background processes (daemons).(Hill, 2025) 
 
 By combining it with top i was able to view the top process running on my system.
