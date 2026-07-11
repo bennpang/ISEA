@@ -22,3 +22,7 @@ Personalising my webserver with a code that i found online
 **NMAP**
 ---
 <img width="416" height="256" alt="image" src="https://github.com/user-attachments/assets/87e4fbfc-cd22-4e4c-b4ef-58784329bff7" />
+
+After removing apache2, it still shows that port 80 is open
+
+<img width="533" height="281" alt="image" src="https://github.com/user-attachments/assets/75645bf0-375f-41e1-a711-6a083ab31d6e" />
