@@ -56,6 +56,9 @@ This allowed me to have the chance to explore tree command that shows me the dir
 
 **less**
 
-I tried the less command  that opens an interactive window
+I tried the less command  that opens an interactive window which i could control with my keyboard arrow keys
 
 <img width="404" height="342" alt="image" src="https://github.com/user-attachments/assets/743b18b5-73b9-480d-a08b-7eaa46167380" />
+
+Filename Search Demostrated
+---
