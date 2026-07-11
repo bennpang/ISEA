@@ -69,10 +69,11 @@ I tried the less command  that opens an interactive window which i could control
 
 Filename Search Demostrated
 ---
-Search for filenames: "find ./Gutenberg -name *.txt"
+Search for filenames: "find ./-name "*.txt""
 
-Similar to the previous lab1-2b it has a mistake related to shell wildcard expansion
+<img width="457" height="155" alt="image" src="https://github.com/user-attachments/assets/a49909c4-88f6-44e9-9736-91dd43759151" />
 
-<img width="458" height="95" alt="Screenshot 2026-07-12 030417" src="https://github.com/user-attachments/assets/56119539-81a1-4c72-87bb-61c0cc095cc4" />
+
+
 
 
