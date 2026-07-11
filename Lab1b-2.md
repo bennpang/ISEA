@@ -16,7 +16,7 @@ Next, I will create a group with the command "sudo groupadd sharedgroup"
 
 To check if the group is successfully created we can used the "getent group sharedgroup" to verify
 
-Create a directory: "sudo mkdir/home/shared" 
+I will then have to create a directory: "sudo mkdir/home/shared" to put all of my users that i want to group up
 
 <img width="341" height="121" alt="image" src="https://github.com/user-attachments/assets/1205bb47-c66b-4cb0-83bd-1651fa91ad93" />
 
