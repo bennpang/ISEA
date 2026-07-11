@@ -22,6 +22,8 @@ Create a directory: "sudo mkdir/home/shared"
 
 Create ten files inside the directory file1 to file10 with the "sudo touch file1" command 
 
+The File Ownership (root root). The first root is the User Owner. The second root is the Group Owner.Because the system administrator account (root) owns all 10 files (file1 through file10), your normal user account cannot modify, overwrite, or delete any of them right now
+
 <img width="335" height="163" alt="image" src="https://github.com/user-attachments/assets/27868bf8-d139-4515-bf6b-1f86af5d7c83" />
 
 
@@ -34,6 +36,4 @@ Changing the group ownership with "sudo chgrp -R sharedgroup/ home/shared". The 
 The File Ownership (root root)Every line has two side-by-side columns reading root root.The first root is the User Owner.The second root is the Group Owner.Because the system administrator account (root) owns all 10 files (file1 through file10), your normal user account ben cannot modify, overwrite, or delete any of them right now
 
 <img width="362" height="156" alt="image" src="https://github.com/user-attachments/assets/7e8959ec-32e4-4c8b-beb2-b2b40ce47c87" />
-
-<img width="350" height="157" alt="image" src="https://github.com/user-attachments/assets/868269ed-256d-4ad7-8fb1-f96e98a62c23" />
 
