@@ -58,6 +58,9 @@ SSH into the VM with the specific user "ssh pang@192.168.1.242"
 
 **Users**
 ---
+After adding users with "sudo adduser pang" , I was able to check the number of users I have with "cat /etc/passwd" 
+Which displays a complete list of all local user accounts configured on your Linux system.
+
 <img width="575" height="650" alt="image" src="https://github.com/user-attachments/assets/aa190dbe-008f-457c-b40e-7b1340ba2eb3" />
 
 **Downloading, Archiving, and Compressing Book Files Using Linux Commands**
