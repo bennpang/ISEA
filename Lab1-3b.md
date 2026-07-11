@@ -1,0 +1,1 @@
+This lab trains students in using command-line tools to locate, inspect, and search through text files, especially within large archives. It builds essential skills in system administration and file forensics using Linux.
