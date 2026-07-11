@@ -1,9 +1,5 @@
-Markdown
-<details>
-<summary><b>GUI Familiarisation</b></summary>
-
 ## This lab focused on setting up a Linux environment using virtualization software. The objective was to successfully install and configure a virtual machine running Ubuntu Linux while gaining an understanding of virtualization basics, installation procedures, and network configuration.
----
+
 The tools used included:
 
 VMware Workstation (after initially attempting VirtualBox)
@@ -21,7 +17,7 @@ Firstly, installation of VMware Workstation. It is a powerful desktop virtualiza
 <img width="654" height="379" alt="image" src="https://github.com/user-attachments/assets/e118f17f-6463-4508-91bd-9ae2032f3792" /> (AWS, n.d)
 
 **Downloads** 
-Markdown
+
 <details>
 <summary><b>**Downloads** </b></summary>
 
