@@ -58,7 +58,8 @@ Bridged, enable the virtual machine (VM) functions on the network as a distinct,
 Other devices on the same network can access this virtual machine because it is directly connected to the same network as your host computer. (J, 2024)
 
 <img width="546" height="335" alt="image" src="https://github.com/user-attachments/assets/23ef5d47-41f7-4a1d-a03a-30c0447cd2f1" /> (J, 2024)
-
+<details>
+<summary><b>**Secure Shell** </b></summary>
 ### Secure Shell : 
 
 To enable SSH (Secure Shell) into the virtual machine. I have to change the networking mode of the virtual machine into bridged mode in order to  give the VM an IP address.
