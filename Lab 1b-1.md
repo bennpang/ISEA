@@ -8,6 +8,8 @@ Here are pictures of me testing and downloading it. Everything was operating smo
 
 <img width="479" height="230" alt="Screenshot 2026-07-11 082829" src="https://github.com/user-attachments/assets/a6602541-c275-41db-a49f-bfba35b7c841" />
 
+Default webpage of Apache WebServer
+
 <img width="431" height="356" alt="image" src="https://github.com/user-attachments/assets/a732305e-12e9-4589-93ae-23606d829e78" />
 
 Personalising my webserver with a code that i found online
@@ -21,6 +23,12 @@ Personalising my webserver with a code that i found online
 
 **NMAP**
 ---
+Running the command "sudo apt install nmap" to install nmap onto ubuntu
+
+<img width="434" height="150" alt="image" src="https://github.com/user-attachments/assets/4d813a83-e202-498a-a754-cd8c79e2ebf6" />
+
+Showing the Local IP address & Loopback address with the command "ip a"
+
 <img width="416" height="256" alt="image" src="https://github.com/user-attachments/assets/87e4fbfc-cd22-4e4c-b4ef-58784329bff7" />
 
 After removing apache2, port 80 was occupied by nginx. Hence, I had to stop nginx from listening to port 80
