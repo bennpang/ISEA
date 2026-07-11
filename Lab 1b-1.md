@@ -8,4 +8,11 @@ Here are pictures of me testing and downloading it. Everything was operating smo
 
 <img width="431" height="356" alt="image" src="https://github.com/user-attachments/assets/a732305e-12e9-4589-93ae-23606d829e78" />
 
+Personalising my webserver with a code that i found online
 
+
+<img width="450" height="377" alt="image" src="https://github.com/user-attachments/assets/4fb75266-a910-4085-bd68-380da24058c1" />
+
+<img width="452" height="409" alt="image" src="https://github.com/user-attachments/assets/8bdc9cf8-cbc3-4d52-88df-9ede6571967d" />
+
+<img width="458" height="341" alt="image" src="https://github.com/user-attachments/assets/6262d51c-c8ba-424c-b463-a463799111b9" />
