@@ -56,7 +56,7 @@ Other devices on the same network can access this virtual machine because it is 
 
 <img width="546" height="335" alt="image" src="https://github.com/user-attachments/assets/23ef5d47-41f7-4a1d-a03a-30c0447cd2f1" /> (J, 2024)
 
-**Secure Shell Access**
+### Secure Shell : 
 
 To enable SSH (Secure Shell) into the virtual machine. I have to change the networking mode of the virtual machine into bridged mode in order to  give the VM an IP address.
 
@@ -69,7 +69,7 @@ Successfully SSH into my Ubuntu Virtual Machine
 
 <img width="2068" height="1342" alt="image" src="https://github.com/user-attachments/assets/eebdfe98-ab92-4285-b80b-b209546d01b7" />
 
-**Cloning**
+### Cloning : 
 
 I chose to make a clone of my present virtual machine inside VMware Workstation since it's crucial to have a backup when working with a new system in case there are problems.
 
