@@ -63,6 +63,7 @@ To enable SSH (Secure Shell) into the virtual machine. I have to change the netw
 A cryptographic network protocol called Secure Shell enables users to safely access, manage, and move files to distant devices over an unprotected network. It is the industry standard for safe remote server administration because it offers robust encryption and authentication. (Gillis, 2024)
 
 I installed SSH into my Ubuntu Operating system
+
 <img width="648" height="487" alt="image" src="https://github.com/user-attachments/assets/04a8cfc2-ae50-424a-8203-df97819d6504" />
 
 Successfully SSH into my Ubuntu Virtual Machine
