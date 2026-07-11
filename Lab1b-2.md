@@ -70,5 +70,12 @@ After completing the lab, I removed the shared directory and its contents using 
 
 <img width="353" height="151" alt="image" src="https://github.com/user-attachments/assets/f400afae-735f-44b3-baf2-440dd99279dc" />
 
-Reflection:
+
+Lab Reflection: 
 ---
+Understanding Linux Shell Expansion and Sudo Execution
+---
+This troubleshooting exercise highlighted a critical aspect of how Linux handles command execution order and shell processing. While attempting to restrict access to a shared directory, I ran the following command:
+"sudo chmod 750 /home/shared/*
+Despite verifying via "sudo ls -la /home/shared that the directory did contain files, the terminal returned a "No such file or directory" error. Initially, I assumed this was a syntax mistake or a user account issue. To test this theory, I switched to "bob" a member of the "sharedgroup" but quickly realized that this unprivileged account lacked the sudo rights required to perform administrative tasks. After, Further investigation revealed that the root cause was not a missing file or a faulty command, but rather the mechanics of shell wildcard expansion. Before sudo elevates permissions and runs a command, the underlying shell first attempts to expand the wildcard "(*)" into a list of explicit filenames. Crucially, this expansion occurs under the context of the currently logged-in user, not the elevated root privileges of sudo. Because my regular user account lacked permissions to read the contents of /home/shared, the shell failed to expand the asterisk, resulting in the misleading error message.
+This exercise demonstrated that sudo only applies to the final command execution, never to the shell's prior interpretation of wildcards or redirections. It also underscored that identical error messages can stem from vastly different underlying system behaviors. Moving forward, I will systematically use commands like "ls -ld" and "ls -la" to map out permission structures before applying changes, ensuring a more logical approach to diagnosing Linux security constraints.
