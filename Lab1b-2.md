@@ -30,9 +30,9 @@ Based on the image shown above, the File Ownership (root root). The first root i
 
 Group Creation and Configurations
 ---
-Adding alice and bob into the group "sudo usermod -aG sharedgroup alice"
+I will now add alice and bob into the group "sudo usermod -aG sharedgroup alice"
 
-Changing the group ownership with "sudo chgrp -R sharedgroup/ home/shared". The sudo chgrp -R sharedgroup /home/shared command changes the group ownership of the /home/shared directory—and everything inside it—to the sharedgroup group.
+Then I procceeded in changing the group ownership with "sudo chgrp -R sharedgroup/ home/shared". The sudo chgrp -R sharedgroup /home/shared command changes the group ownership of the /home/shared directory—and everything inside it—to the sharedgroup group.
 
 <img width="401" height="193" alt="image" src="https://github.com/user-attachments/assets/553a2fb4-1522-4c9c-bac3-c5c1d4d78c43" />
 
@@ -44,7 +44,7 @@ After changing the directory permissions "sudo chmod 770 /home/shared" now both 
 
 <img width="355" height="169" alt="image" src="https://github.com/user-attachments/assets/67ef23a1-4954-48c4-8d35-dbe72b70bef0" />
 
-Now I wanted to Override Bob's rights with `sudo chmod 750 /home/shared/* however this command will not work because the shell reads /home/shared/* instead to the sudo command as I am not using the root user account but my curent user (ben). 
+Now I would like to override Bob's rights with `sudo chmod 750 /home/shared/* however this command will not work because the shell reads /home/shared/* instead to the sudo command as I am not using the root user account but my curent user (ben). 
 
 <img width="357" height="287" alt="image" src="https://github.com/user-attachments/assets/33064060-d512-4966-9050-2393d4a3e426" />
 
