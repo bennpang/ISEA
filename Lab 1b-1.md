@@ -18,3 +18,7 @@ Personalising my webserver with a code that i found online
 <img width="452" height="409" alt="image" src="https://github.com/user-attachments/assets/8bdc9cf8-cbc3-4d52-88df-9ede6571967d" />
 
 <img width="458" height="341" alt="image" src="https://github.com/user-attachments/assets/6262d51c-c8ba-424c-b463-a463799111b9" />
+
+**NMAP**
+---
+<img width="416" height="256" alt="image" src="https://github.com/user-attachments/assets/87e4fbfc-cd22-4e4c-b4ef-58784329bff7" />
