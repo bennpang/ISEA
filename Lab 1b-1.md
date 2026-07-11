@@ -62,7 +62,9 @@ Challenge 2
 <img width="340" height="249" alt="image" src="https://github.com/user-attachments/assets/41a952d7-0eac-48e1-93d7-f9df3dd3865d" />
 
 Challenge 3
+
 User1 to 192.168.1.242(ben)
+
 <img width="377" height="244" alt="image" src="https://github.com/user-attachments/assets/5fb5e28c-9a73-4665-b6a0-0933e96e915e" />
 
 192.168.1.242 to User 1 from user1 PC
