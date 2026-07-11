@@ -69,9 +69,22 @@ I tried the less command  that opens an interactive window which i could control
 
 Filename Search Demostrated
 ---
+find
 Search for filenames: "find ./-name "*.txt""
 
 <img width="457" height="155" alt="image" src="https://github.com/user-attachments/assets/a49909c4-88f6-44e9-9736-91dd43759151" />
+
+"find -type f -printf '%T+ %p\n' | sort " command is used to list all files in the current directory and its subdirectories, showing their last modification time, then sorting them.
+
+"find ./ -type f -size 94c -exec ls -lh {} \" command searches for regular files that are exactly 94 bytes in size and displays detailed information about each one.
+
+<img width="587" height="152" alt="image" src="https://github.com/user-attachments/assets/4a5ab40e-408a-4a1c-8a8b-1c8c07563f81" />
+
+
+Text Search via Grep
+---
+
+<img width="472" height="171" alt="image" src="https://github.com/user-attachments/assets/6ac98a85-88db-4653-84dc-e85e8093d0ae" />
 
 
 
