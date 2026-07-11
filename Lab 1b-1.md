@@ -66,11 +66,13 @@ Which displays a complete list of all local user accounts configured on your Lin
 **Downloading, Archiving, and Compressing Book Files Using Linux Commands**
 ---
 I have gotten 3 books by using the "wget" command and stored 3 of the textfiles into a directory "mkdir Books" and create an archieve file from the directory Books with "tar cf books.tar Books" which I then compressed the file "bzip2 books.tar"
+After listing all the files with "ls -la" I am able to see that the zipped file is much smaller compared to the archieve file
 
 <img width="440" height="199" alt="image" src="https://github.com/user-attachments/assets/b8e75d6e-8cea-40d9-a3b1-651f8e5b74d2" />
 
 
 Challenge
+
 <img width="658" height="275" alt="image" src="https://github.com/user-attachments/assets/8546ffa7-81e7-4d82-8bd1-18ecc3fd7fe9" />
 
 
