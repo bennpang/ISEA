@@ -17,3 +17,14 @@ Basic Bash Script Created and Run
 <img width="370" height="265" alt="image" src="https://github.com/user-attachments/assets/51472320-9811-4168-8148-8c2e06f73f6b" />
 
 <img width="421" height="263" alt="image" src="https://github.com/user-attachments/assets/332c9844-fb68-4b84-885b-5c645500199e" />
+
+<img width="328" height="104" alt="image" src="https://github.com/user-attachments/assets/075efe7b-7813-425f-aff2-8ee12dca1dd7" />
+
+Reflection Questions
+---
+A text file can become a runnable program instead of a read-only document by using the chmod +x command. The shebang (#!/bin/bash) at the top instructs the operating system's kernel to interpret and execute the following instructions using the particular Bash interpreter route. Use the read command to ask the user for input, store their answer in a variable, and then use echo "Hello, $variable_name!" to edit a script for personalized messaging.
+
+Loop and Conditional Script
+---
+<img width="512" height="342" alt="image" src="https://github.com/user-attachments/assets/c4fc767f-bed7-4cc7-a19c-69bd616b0b1f" />
+
