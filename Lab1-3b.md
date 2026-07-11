@@ -12,4 +12,13 @@ Under Virtual Machine Settings Options I will nagavitage to share folders and al
 
 <img width="561" height="335" alt="image" src="https://github.com/user-attachments/assets/40ca9c36-6312-4cad-b0e8-cd3fd4aaa19c" />
 
+Since Filesharing has been enable in the VMware Workstation I will have to mount it onto my Ubuntu system. "ls /mnt/hgfs"
+From here, my file is accessible. However, nagivitating to this directory can be a hassle and I would like to move it somewhere for convienent like my Desktop. "ln -s/mnt/hfgs/student_ISEA ~/Desktop/student_ISEA" 
+
 <img width="811" height="121" alt="image" src="https://github.com/user-attachments/assets/c2cada8f-412f-4a81-8ded-96bef0ae05dc" />
+
+After restarting my Virtual Machine my shortcut to my shared folder has some issues. This was because it wasnt mounted permanently.
+
+<img width="1033" height="657" alt="image" src="https://github.com/user-attachments/assets/48fa98be-de30-43d5-8697-1fba6ac1e5b3" />
+
+<img width="1111" height="673" alt="image" src="https://github.com/user-attachments/assets/d3ac437e-e421-48f1-9c69-94edf5822f0a" />
