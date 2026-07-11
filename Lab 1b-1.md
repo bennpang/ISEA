@@ -100,6 +100,11 @@ User1 to 192.168.1.242(ben)
 
 Challenge 4:
 ---
-Challenge 4 was to download 10 books, compress with tar + bzip2, and SCP to another UNIX device.
+Challenge 4 was to download 10 books, compress with tar + bzip2, and SCP to another UNIX device. 
+
+I have download 10 books from gutenberg.org using the "wget https://www.gutenberg.org/ebooks/3435" and I will stored all of them into a directory Thousand Night "mkdir Thousand_Night"
+
+<img width="435" height="229" alt="image" src="https://github.com/user-attachments/assets/8c629e62-be99-462a-b603-0a4451c81d09" />
+
 
 
