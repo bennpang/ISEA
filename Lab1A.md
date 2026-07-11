@@ -18,8 +18,6 @@ Firstly, installation of VMware Workstation. It is a powerful desktop virtualiza
 
 **Downloads** 
 
-<summary><b>**Downloads** </b></summary>
-
 <img width="400" height="565" alt="image" src="https://github.com/user-attachments/assets/89036726-713d-4317-8525-0c939d173ef6" />
 <img width="394" height="510" alt="image" src="https://github.com/user-attachments/assets/4979b4a6-28a3-4291-820a-c1a0a0721dfa" />
 
@@ -58,7 +56,7 @@ Other devices on the same network can access this virtual machine because it is 
 
 <img width="546" height="335" alt="image" src="https://github.com/user-attachments/assets/23ef5d47-41f7-4a1d-a03a-30c0447cd2f1" /> (J, 2024)
 <details>
-<summary><b>**Secure Shell** </b></summary>
+  <summary>  Secure Shell </summary>
 ### Secure Shell : 
 
 To enable SSH (Secure Shell) into the virtual machine. I have to change the networking mode of the virtual machine into bridged mode in order to  give the VM an IP address.
