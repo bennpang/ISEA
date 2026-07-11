@@ -35,11 +35,16 @@ After configurating and much troubleshooting with online resources, I was able t
 
 <img width="972" height="660" alt="image" src="https://github.com/user-attachments/assets/1e93c01b-d668-4eb9-ba84-948d2ce855d4" />
 
+I successfully located the file "1b-3-gutenberg.tar.bz2"
+
+<img width="344" height="205" alt="image" src="https://github.com/user-attachments/assets/c17973fc-8bd6-4149-b8d5-dd3bbae9e2f9" />
+
 Archive Extracted Successfully
 ---
 To extract the files, I used "bunzip2" and "tar -xvf" to extract the files 
 
-<img width="406" height="203" alt="image" src="https://github.com/user-attachments/assets/57c0f738-8e0f-4547-b55b-7046455ebf22" />
+<img width="430" height="127" alt="image" src="https://github.com/user-attachments/assets/e5412239-614d-4c32-9412-80bcf87bbfc6" />
+
 
 File Listing of Extracted Directory
 ---
@@ -51,14 +56,23 @@ I had to first install tree using "apt install tree"
 
 This allowed me to have the chance to explore tree command that shows me the directory hierachy
 
-<img width="302" height="229" alt="image" src="https://github.com/user-attachments/assets/8de41e9e-3da2-48ca-a446-4f00859af7d3" />
+<img width="422" height="190" alt="image" src="https://github.com/user-attachments/assets/deb47c92-0f8f-4424-a14c-9fc2be0e107d" />
+
 
 
 **less**
 
 I tried the less command  that opens an interactive window which i could control with my keyboard arrow keys
 
-<img width="404" height="342" alt="image" src="https://github.com/user-attachments/assets/743b18b5-73b9-480d-a08b-7eaa46167380" />
+<img width="443" height="363" alt="image" src="https://github.com/user-attachments/assets/4c2dd00e-1f39-4322-aaa8-6d61d19885e7" />
+
 
 Filename Search Demostrated
 ---
+Search for filenames: "find ./Gutenberg -name *.txt"
+
+Similar to the previous lab1-2b it has a mistake related to shell wildcard expansion
+
+<img width="458" height="95" alt="Screenshot 2026-07-12 030417" src="https://github.com/user-attachments/assets/56119539-81a1-4c72-87bb-61c0cc095cc4" />
+
+
