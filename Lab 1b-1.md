@@ -59,6 +59,4 @@ Challenge 2
 
 Challenge 3
 
-<img width="335" height="232" alt="image" src="https://github.com/user-attachments/assets/d42fcaf7-2c80-47da-98ce-88c1e013c93b" />
-
 <img width="622" height="609" alt="image" src="https://github.com/user-attachments/assets/f3fd2b99-8b67-46ab-839c-2e378c662bf0" />
