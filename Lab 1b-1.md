@@ -31,3 +31,14 @@ Firewall
 ---
 <img width="302" height="157" alt="image" src="https://github.com/user-attachments/assets/dee7718b-05cd-4a3c-b1c5-e1fc54158442" />
 
+
+SSH Enabled 
+
+<img width="509" height="244" alt="image" src="https://github.com/user-attachments/assets/60dc878f-4108-4cc7-a490-d7fe8a9ee147" />
+
+<img width="499" height="293" alt="image" src="https://github.com/user-attachments/assets/6e7bb9b6-8312-43e8-8bba-a3765743e661" />
+
+Users
+
+<img width="575" height="650" alt="image" src="https://github.com/user-attachments/assets/aa190dbe-008f-457c-b40e-7b1340ba2eb3" />
+
