@@ -54,3 +54,6 @@ This shows that alice has "rwx" bob has read-only access and mallory has no acce
 
 <img width="356" height="203" alt="image" src="https://github.com/user-attachments/assets/4a05754c-0d08-4c82-a67b-960e0b46a27e" />
 
+## Challenge
+---
+I will grant mallory sudo access and test if mallory will have root access
