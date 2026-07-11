@@ -57,6 +57,15 @@ Challenge 2
 
 <img width="626" height="290" alt="image" src="https://github.com/user-attachments/assets/99cda81a-0ee5-4e8f-9562-983638979bda" />
 
-Challenge 3
+<img width="334" height="254" alt="image" src="https://github.com/user-attachments/assets/285bb173-ed98-4f27-a758-76250856f5df" />
 
-<img width="622" height="609" alt="image" src="https://github.com/user-attachments/assets/f3fd2b99-8b67-46ab-839c-2e378c662bf0" />
+<img width="340" height="249" alt="image" src="https://github.com/user-attachments/assets/41a952d7-0eac-48e1-93d7-f9df3dd3865d" />
+
+Challenge 3
+User1 to 192.168.1.242(ben)
+<img width="377" height="244" alt="image" src="https://github.com/user-attachments/assets/5fb5e28c-9a73-4665-b6a0-0933e96e915e" />
+
+192.168.1.242 to User 1 from user1 PC
+
+<img width="349" height="161" alt="image" src="https://github.com/user-attachments/assets/ddb72dec-ead0-4329-b9a1-df387545af80" />
+
