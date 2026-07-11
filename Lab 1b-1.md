@@ -23,6 +23,6 @@ Personalising my webserver with a code that i found online
 ---
 <img width="416" height="256" alt="image" src="https://github.com/user-attachments/assets/87e4fbfc-cd22-4e4c-b4ef-58784329bff7" />
 
-After removing apache2, it still shows that port 80 is open
+After removing apache2, port 80 was occupied by nginx. Hence, I had to stop nginx from listening to port 80
 
-<img width="533" height="281" alt="image" src="https://github.com/user-attachments/assets/75645bf0-375f-41e1-a711-6a083ab31d6e" />
+<img width="566" height="163" alt="image" src="https://github.com/user-attachments/assets/abf8fbdc-7546-4c4d-9781-7cff1b7bac4e" />
