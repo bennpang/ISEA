@@ -32,7 +32,7 @@ Firewall
 <img width="302" height="157" alt="image" src="https://github.com/user-attachments/assets/dee7718b-05cd-4a3c-b1c5-e1fc54158442" />
 
 
-**SSH Enabled **
+SSH Enabled
 ---
 <img width="509" height="244" alt="image" src="https://github.com/user-attachments/assets/60dc878f-4108-4cc7-a490-d7fe8a9ee147" />
 
