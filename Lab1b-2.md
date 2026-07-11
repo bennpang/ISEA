@@ -36,7 +36,7 @@ Then I procceeded in changing the group ownership with "sudo chgrp -R sharedgrou
 
 <img width="401" height="193" alt="image" src="https://github.com/user-attachments/assets/553a2fb4-1522-4c9c-bac3-c5c1d4d78c43" />
 
-The File Ownership (root sharedgroup )Every line has two side-by-side columns reading root sharedgroup. The first root is the User Owner.The second is the Group Owner. Therfore, root has full read and write power while sharedgroup and others have read-only access
+The File Ownership (root sharedgroup )Every line has two side-by-side columns reading root sharedgroup. The first root is the User Owner.The second is the Group Owner. Therfore, currently root has full read and write power while sharedgroup and others have read-only access
 
 <img width="362" height="156" alt="image" src="https://github.com/user-attachments/assets/7e8959ec-32e4-4c8b-beb2-b2b40ce47c87" />
 
