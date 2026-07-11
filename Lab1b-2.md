@@ -41,7 +41,8 @@ After changing the directory permissions "sudo chmod 770 /home/shared" now both 
 
 <img width="355" height="169" alt="image" src="https://github.com/user-attachments/assets/67ef23a1-4954-48c4-8d35-dbe72b70bef0" />
 
-During my troubleshoot and understanding of this command. I initally thought that it was because of the wrong command was given used and wrong user previliege. The "No such file or directory" error happens because the wildcard asterisk (*) is looking for individual files inside /home/shared, but that folder is completely empty right now. However there were files inside of the directory which got me thinking that I was using the wrong user. So i switched to bob and tried using sudo however bob was unable to use sudo command.  In Linux, if a folder contains no files, the shell cannot expand the * symbol, causing the command to fail. The Solution Instead of targeting the files inside the folder using the asterisk, target the directory itself and tell it to apply the rules recursively (-R). The reason the command failed even though files exist is due to how Linux permission restrictions interact with shell wildcards (*).When you typed sudo chmod 750 /home/shared/*, your shell tried to expand the * into a list of files before running sudo. Because your normal user account (ben) did not have read permissions on the folder at that exact millisecond, the shell was blocked from seeing inside to expand the asterisk, resulting in the "No such file or directory" error.
+Now I wanted to Override Bob's rights with `sudo chmod 750 /home/shared/* however this command will not work because the shell reads /home/shared/* instead to the sudo command as I am not using the root user account but my curent user (ben). 
+
 <img width="357" height="287" alt="image" src="https://github.com/user-attachments/assets/33064060-d512-4966-9050-2393d4a3e426" />
 
 
