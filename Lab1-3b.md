@@ -21,4 +21,17 @@ After restarting my Virtual Machine my shortcut to my shared folder has some iss
 
 <img width="1033" height="657" alt="image" src="https://github.com/user-attachments/assets/48fa98be-de30-43d5-8697-1fba6ac1e5b3" />
 
+I had to locate the directory of the file sharing in "/mnt/hgfs" and make some configurations. 
 <img width="1111" height="673" alt="image" src="https://github.com/user-attachments/assets/d3ac437e-e421-48f1-9c69-94edf5822f0a" />
+
+adding "user_allow_other" inside the "/etc/fuse.conf"
+
+<img width="1546" height="696" alt="image" src="https://github.com/user-attachments/assets/8e78f8ad-a4a3-494f-a35c-20ded99102c6" />
+
+I also had to configure the "/etc/fstab" which will automatically boot once the Virtual Machine start  
+<img width="1440" height="691" alt="image" src="https://github.com/user-attachments/assets/687edc19-f476-4ea8-97bd-75094be53f23" />
+
+After configurating and much troubleshooting with online resources, I was able to use my filesharing folder from my host to share with my VM
+
+<img width="972" height="660" alt="image" src="https://github.com/user-attachments/assets/1e93c01b-d668-4eb9-ba84-948d2ce855d4" />
+
