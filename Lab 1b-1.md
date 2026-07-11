@@ -106,7 +106,12 @@ I have download 10 books from gutenberg.org using the "wget https://www.gutenber
 
 <img width="435" height="229" alt="image" src="https://github.com/user-attachments/assets/8c629e62-be99-462a-b603-0a4451c81d09" />
 
+I archieve and compressed the file with "tar cp Thousand_Night. tar Thousand_Night" and "bzip2 Thousand_Night.tar"
+
 <img width="314" height="98" alt="image" src="https://github.com/user-attachments/assets/cec15c91-f2e1-431b-a454-e08ea94ad51b" />
+
+I SSH in the VM with the file to establish a connect in order to run SCP
+
 
 <img width="286" height="188" alt="image" src="https://github.com/user-attachments/assets/983ca32c-3f85-4429-bc3e-ca050697ad62" />
 
