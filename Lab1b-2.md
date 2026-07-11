@@ -3,6 +3,11 @@ This lab focuses on secure file permission and user group management in Linux. S
 Creating Users
 ---
 Created Alice, Bob and Mallory using "sudo adduser alice"
+
+Sample output of the user creation process
+
+<img width="165" height="65" alt="image" src="https://github.com/user-attachments/assets/a7616460-77e4-45d8-bd61-20bcd5069360" />
+
 Verifying Creation with "cat /etc/passwd"
 
 <img width="290" height="71" alt="image" src="https://github.com/user-attachments/assets/41d0ec21-06f1-41a0-8f1f-c7681a206e2a" />
