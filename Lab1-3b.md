@@ -4,6 +4,8 @@ Enable FileShare
 ---
 Firstly, in order to access file easily betweeen my Host and Virtual Machine I decided to Enable Filesharing.
 
+We will first have to change the settings to enable fileshare "Right-CLick under settings"
+
 <img width="281" height="350" alt="image" src="https://github.com/user-attachments/assets/5777b653-ecb2-4a44-8656-64f7405d66f5" />
 
 <img width="448" height="499" alt="image" src="https://github.com/user-attachments/assets/c9c782ff-77e6-4acb-8915-92ad313e613b" />
