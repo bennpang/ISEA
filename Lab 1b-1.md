@@ -48,6 +48,8 @@ I have enable and configured the firewall "sudo ufw status verbose" "sudo ufw en
 
 SSH Enabled
 ---
+I enabled Port 22 on the firewall which allows me to SSH into my Ubuntu with my Host OS
+
 <img width="509" height="244" alt="image" src="https://github.com/user-attachments/assets/60dc878f-4108-4cc7-a490-d7fe8a9ee147" />
 
 <img width="499" height="293" alt="image" src="https://github.com/user-attachments/assets/6e7bb9b6-8312-43e8-8bba-a3765743e661" />
