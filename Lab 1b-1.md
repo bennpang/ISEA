@@ -27,6 +27,8 @@ Running the command "sudo apt install nmap" to install nmap onto ubuntu
 
 <img width="434" height="150" alt="image" src="https://github.com/user-attachments/assets/4d813a83-e202-498a-a754-cd8c79e2ebf6" />
 
+Doing an nmap scan to check for open ports on my Ubuntu Virtual Machine with the command "nmap 192.168.1.242"
+
 Showing the Local IP address & Loopback address with the command "ip a"
 
 <img width="416" height="256" alt="image" src="https://github.com/user-attachments/assets/87e4fbfc-cd22-4e4c-b4ef-58784329bff7" />
