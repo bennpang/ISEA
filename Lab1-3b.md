@@ -41,4 +41,15 @@ To extract the files, I used "bunzip2" and "tar -xvf" to extract the files
 
 <img width="406" height="203" alt="image" src="https://github.com/user-attachments/assets/57c0f738-8e0f-4547-b55b-7046455ebf22" />
 
+File Listing of Extracted Directory
+---
+**Tree**
 
+I had to first install tree using "apt install tree"
+<img width="361" height="167" alt="image" src="https://github.com/user-attachments/assets/0c9819e0-855a-480b-8e62-39c43976a0ff" />
+
+This allowed me to have the chance to explore tree command that shows me the directory hierachy
+
+<img width="302" height="229" alt="image" src="https://github.com/user-attachments/assets/8de41e9e-3da2-48ca-a446-4f00859af7d3" />
+
+<img width="404" height="342" alt="image" src="https://github.com/user-attachments/assets/743b18b5-73b9-480d-a08b-7eaa46167380" />
