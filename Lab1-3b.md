@@ -53,4 +53,7 @@ This allowed me to have the chance to explore tree command that shows me the dir
 
 <img width="302" height="229" alt="image" src="https://github.com/user-attachments/assets/8de41e9e-3da2-48ca-a446-4f00859af7d3" />
 
+
+**less**
+I tried the less command 
 <img width="404" height="342" alt="image" src="https://github.com/user-attachments/assets/743b18b5-73b9-480d-a08b-7eaa46167380" />
