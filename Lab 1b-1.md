@@ -48,3 +48,17 @@ I have gotten 3 books by using the "wget" command and stored 3 of the textfiles 
 
 <img width="440" height="199" alt="image" src="https://github.com/user-attachments/assets/b8e75d6e-8cea-40d9-a3b1-651f8e5b74d2" />
 
+
+Challenge
+<img width="658" height="275" alt="image" src="https://github.com/user-attachments/assets/8546ffa7-81e7-4d82-8bd1-18ecc3fd7fe9" />
+
+
+Challenge 2
+
+<img width="626" height="290" alt="image" src="https://github.com/user-attachments/assets/99cda81a-0ee5-4e8f-9562-983638979bda" />
+
+Challenge 3
+
+<img width="335" height="232" alt="image" src="https://github.com/user-attachments/assets/d42fcaf7-2c80-47da-98ce-88c1e013c93b" />
+
+<img width="622" height="609" alt="image" src="https://github.com/user-attachments/assets/f3fd2b99-8b67-46ab-839c-2e378c662bf0" />
