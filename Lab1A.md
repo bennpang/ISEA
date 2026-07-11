@@ -18,7 +18,6 @@ Firstly, installation of VMware Workstation. It is a powerful desktop virtualiza
 
 **Downloads** 
 
-<details>
 <summary><b>**Downloads** </b></summary>
 
 <img width="400" height="565" alt="image" src="https://github.com/user-attachments/assets/89036726-713d-4317-8525-0c939d173ef6" />
