@@ -26,3 +26,8 @@ Personalising my webserver with a code that i found online
 After removing apache2, port 80 was occupied by nginx. Hence, I had to stop nginx from listening to port 80
 
 <img width="566" height="163" alt="image" src="https://github.com/user-attachments/assets/abf8fbdc-7546-4c4d-9781-7cff1b7bac4e" />
+
+Firewall
+---
+<img width="302" height="157" alt="image" src="https://github.com/user-attachments/assets/dee7718b-05cd-4a3c-b1c5-e1fc54158442" />
+
