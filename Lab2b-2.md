@@ -26,5 +26,27 @@ A text file can become a runnable program instead of a read-only document by usi
 
 Loop and Conditional Script
 ---
+I created a second Bash script that used the "read" command to take user input. Additionally, the script displayed various messages based on user input using if, elif, and else commands. This was followed by a for loop that numbered from 1 to 5.
+
+An image of the Bash script
 <img width="512" height="342" alt="image" src="https://github.com/user-attachments/assets/c4fc767f-bed7-4cc7-a19c-69bd616b0b1f" />
+
+Reflection Questions
+---
+The for loop iterates through the numbers 1 to 5 using the sequence {1..5}. During each count, it prints the current iteration number and then pauses for 1 second using the sleep 1s command before continuing to the next number.
+If a user enters a number greater than 10 then program will print "Number out of range"
+
+To ensure that the user is prompted repeatedly until they provide a valid numeric value inside the desired range, place the input prompt inside a while loop. By enabling users to edit their input without restarting the script, this improves user experience.
+
+System Monitoring Script Created and Run
+---
+
+<img width="414" height="293" alt="image" src="https://github.com/user-attachments/assets/610f1a94-81f7-40f1-a287-db0487d9acae" />
+
+
+<img width="402" height="265" alt="image" src="https://github.com/user-attachments/assets/6f9c747c-5e2d-404b-a280-69da5ad55cc2" />
+
+
+
+
 
