@@ -31,6 +31,8 @@ Changing the group ownership with "sudo chgrp -R sharedgroup/ home/shared". The 
 
 <img width="401" height="193" alt="image" src="https://github.com/user-attachments/assets/553a2fb4-1522-4c9c-bac3-c5c1d4d78c43" />
 
+The File Ownership (root root)Every line has two side-by-side columns reading root root.The first root is the User Owner.The second root is the Group Owner.Because the system administrator account (root) owns all 10 files (file1 through file10), your normal user account ben cannot modify, overwrite, or delete any of them right now
+
 <img width="362" height="156" alt="image" src="https://github.com/user-attachments/assets/7e8959ec-32e4-4c8b-beb2-b2b40ce47c87" />
 
 <img width="350" height="157" alt="image" src="https://github.com/user-attachments/assets/868269ed-256d-4ad7-8fb1-f96e98a62c23" />
