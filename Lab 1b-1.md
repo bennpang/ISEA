@@ -87,6 +87,8 @@ Challenge 2 is to attempt to launch gedit while SSH. At first, I thought I was n
 <img width="340" height="249" alt="image" src="https://github.com/user-attachments/assets/41a952d7-0eac-48e1-93d7-f9df3dd3865d" />
 
 Challenge 3
+---
+Challenge 3 was to use SCP to send files over the network. I managed to do it in the example down below:
 
 User1 to 192.168.1.242(ben)
 
@@ -95,4 +97,9 @@ User1 to 192.168.1.242(ben)
 192.168.1.242 to User 1 from user1 PC
 
 <img width="349" height="161" alt="image" src="https://github.com/user-attachments/assets/ddb72dec-ead0-4329-b9a1-df387545af80" />
+
+Challenge 4:
+---
+Challenge 4 was to download 10 books, compress with tar + bzip2, and SCP to another UNIX device.
+
 
