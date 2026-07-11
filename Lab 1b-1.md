@@ -115,6 +115,8 @@ I SSH in the VM with the file to establish a connect in order to run SCP
 
 <img width="286" height="188" alt="image" src="https://github.com/user-attachments/assets/983ca32c-3f85-4429-bc3e-ca050697ad62" />
 
+So in the command line "scp source which was pang@192.168.1.242 home/pang directory to destination of user1 with the ip address of 192.168.153.130 directory /home/user1/Desktop" 
+
 <img width="596" height="196" alt="image" src="https://github.com/user-attachments/assets/082f7cf5-4153-4ff2-9f7d-2d5a874b7e7e" />
 
 
