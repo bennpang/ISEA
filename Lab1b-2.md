@@ -37,3 +37,6 @@ The File Ownership (root sharedgroup )Every line has two side-by-side columns re
 
 <img width="362" height="156" alt="image" src="https://github.com/user-attachments/assets/7e8959ec-32e4-4c8b-beb2-b2b40ce47c87" />
 
+After changing the directory permissions "sudo chmod 770 /home/shared" now both root and sharedgroup have full access while others are unable to have any access to the files.
+
+<img width="355" height="169" alt="image" src="https://github.com/user-attachments/assets/67ef23a1-4954-48c4-8d35-dbe72b70bef0" />
