@@ -35,3 +35,10 @@ After configurating and much troubleshooting with online resources, I was able t
 
 <img width="972" height="660" alt="image" src="https://github.com/user-attachments/assets/1e93c01b-d668-4eb9-ba84-948d2ce855d4" />
 
+Archive Extracted Successfully
+---
+To extract the files, I used "bunzip2" and "tar -xvf" to extract the files 
+
+<img width="406" height="203" alt="image" src="https://github.com/user-attachments/assets/57c0f738-8e0f-4547-b55b-7046455ebf22" />
+
+
