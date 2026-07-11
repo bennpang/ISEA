@@ -15,5 +15,11 @@ Create a directory: "sudo mkdir/home/shared"
 
 <img width="341" height="121" alt="image" src="https://github.com/user-attachments/assets/1205bb47-c66b-4cb0-83bd-1651fa91ad93" />
 
-<img width="1246" height="1134" alt="image" src="https://github.com/user-attachments/assets/b5258966-23de-4630-9c5d-4cedbc323798" />
+Create ten files inside the directory file1 to file10 with the "sudo touch file1" command 
+
+Adding alice and bob into the group "sudo usermod -aG sharedgroup alice"
+
+Changing the group ownership with "sudo chgrp -R sharedgroup/ home/shared". The sudo chgrp -R sharedgroup /home/shared command changes the group ownership of the /home/shared directory—and everything inside it—to the sharedgroup group.
+
+<img width="401" height="193" alt="image" src="https://github.com/user-attachments/assets/553a2fb4-1522-4c9c-bac3-c5c1d4d78c43" />
 
