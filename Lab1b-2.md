@@ -56,4 +56,16 @@ This shows that alice has "rwx" bob has read-only access and mallory has no acce
 
 ## Challenge
 ---
-I will grant mallory sudo access and test if mallory will have root access
+I will grant mallory sudo access and test if mallory will have root access. By adding her in sudo group the command "sudo usermod -aG sudo mallory". After, I added her into the group I was able to use sudo on her account when previously I could not. This means before adding her into the group, she was only able to access her own home directory and cannot "rwx" other users or core operating system. Meaning to say that granting sudo access is the most sensitive administrative action cannot be give out becuase it gives all the power of being a substitute user do "sudo" of the root user.
+
+<img width="391" height="190" alt="image" src="https://github.com/user-attachments/assets/7ca49058-f09b-4674-a048-30c345d6c355" />
+
+
+## Clean up Task
+---
+After completing the lab, I removed the shared directory and its contents using the "sudo rm -r /home/shared" command and verified that the directory had been deleted with "ls /home" and " cd /home/shared to confirm that there isnt such directory.
+
+<img width="353" height="151" alt="image" src="https://github.com/user-attachments/assets/f400afae-735f-44b3-baf2-440dd99279dc" />
+
+Reflection:
+---
