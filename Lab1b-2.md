@@ -20,13 +20,16 @@ I will then have to create a directory: "sudo mkdir/home/shared" to put all of m
 
 <img width="341" height="121" alt="image" src="https://github.com/user-attachments/assets/1205bb47-c66b-4cb0-83bd-1651fa91ad93" />
 
-Create ten files inside the directory file1 to file10 with the "sudo touch file1" command 
+Shared Files
+---
+I have created ten files inside the directory file1 to file10 with the "sudo touch file1" command to allow access to the different users
 
-The File Ownership (root root). The first root is the User Owner. The second root is the Group Owner.Because the system administrator account (root) owns all 10 files (file1 through file10), your normal user account cannot modify, overwrite, or delete any of them right now
+Based on the image shown above, the File Ownership (root root). The first root is the User Owner. The second root is the Group Owner.Because the system administrator account (root) owns all 10 files (file1 through file10), your normal user account cannot modify, overwrite, or delete any of them right now
 
 <img width="335" height="163" alt="image" src="https://github.com/user-attachments/assets/27868bf8-d139-4515-bf6b-1f86af5d7c83" />
 
-
+Group Creation and Configurations
+---
 Adding alice and bob into the group "sudo usermod -aG sharedgroup alice"
 
 Changing the group ownership with "sudo chgrp -R sharedgroup/ home/shared". The sudo chgrp -R sharedgroup /home/shared command changes the group ownership of the /home/shared directory—and everything inside it—to the sharedgroup group.
