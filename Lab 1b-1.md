@@ -41,6 +41,8 @@ After removing apache2, port 80 was occupied by nginx. Hence, I had to stop ngin
 
 Firewall
 ---
+I have enable and configured the firewall "sudo ufw status verbose" "sudo ufw enable" "sudo ufw allow port 80" 
+
 <img width="302" height="157" alt="image" src="https://github.com/user-attachments/assets/dee7718b-05cd-4a3c-b1c5-e1fc54158442" />
 
 
