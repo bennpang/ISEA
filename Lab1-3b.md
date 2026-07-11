@@ -46,6 +46,7 @@ File Listing of Extracted Directory
 **Tree**
 
 I had to first install tree using "apt install tree"
+
 <img width="361" height="167" alt="image" src="https://github.com/user-attachments/assets/0c9819e0-855a-480b-8e62-39c43976a0ff" />
 
 This allowed me to have the chance to explore tree command that shows me the directory hierachy
