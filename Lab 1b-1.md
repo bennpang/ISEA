@@ -106,5 +106,10 @@ I have download 10 books from gutenberg.org using the "wget https://www.gutenber
 
 <img width="435" height="229" alt="image" src="https://github.com/user-attachments/assets/8c629e62-be99-462a-b603-0a4451c81d09" />
 
+<img width="314" height="98" alt="image" src="https://github.com/user-attachments/assets/cec15c91-f2e1-431b-a454-e08ea94ad51b" />
+
+<img width="286" height="188" alt="image" src="https://github.com/user-attachments/assets/983ca32c-3f85-4429-bc3e-ca050697ad62" />
+
+<img width="596" height="196" alt="image" src="https://github.com/user-attachments/assets/082f7cf5-4153-4ff2-9f7d-2d5a874b7e7e" />
 
 
