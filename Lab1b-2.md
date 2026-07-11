@@ -2,7 +2,7 @@ This lab focuses on secure file permission and user group management in Linux. S
 
 Creating Users
 ---
-To create users Alice, Bob and Mallory using "sudo adduser alice"
+To create users Alice, Bob and Mallory. I will have to use the "sudo adduser alice" command to add users in Ubuntu.
 
 This is my sample output of the user creation process
 
