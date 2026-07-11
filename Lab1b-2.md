@@ -46,3 +46,11 @@ Now I wanted to Override Bob's rights with `sudo chmod 750 /home/shared/* howeve
 <img width="357" height="287" alt="image" src="https://github.com/user-attachments/assets/33064060-d512-4966-9050-2393d4a3e426" />
 
 
+Therefore in order to by pass I have 2 options after researching. Firstly using Access Control List (ACL) or Secondly, I can make alice the owner of the file while still keeping her in shardgroup.This means that I can change the group right with the "chmod" command to adjust bob's permissions. In this exercise, I will go with option 2.
+
+<img width="403" height="180" alt="image" src="https://github.com/user-attachments/assets/6136a8fd-5ffd-498f-935a-61f20d428679" />
+
+This shows that alice has "rwx" bob has read-only access and mallory has no access to the files
+
+<img width="356" height="203" alt="image" src="https://github.com/user-attachments/assets/4a05754c-0d08-4c82-a67b-960e0b46a27e" />
+
