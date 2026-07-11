@@ -1,4 +1,4 @@
-Using a virtual machine environment, this lab focuses on developing practical skills in networking, secure communication, and Linux system management. I've learned how to use various networking tools and services to remotely administer and access a Linux server thanks to this lab exercise.
+This lab expands students’ understanding of Linux as a service host. Students will configure Apache, SSH, network settings, firewall rules, user accounts, and use compression tools for transferring files. The activities are collaborative and test basic system administration capabilities
 
 **Apache**
 ---
