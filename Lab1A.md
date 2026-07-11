@@ -32,7 +32,7 @@ SHA-256 (Secure Hash Algorithm 256-bit) is a widely used cryptographic hash func
 
 <img width="2242" height="904" alt="image" src="https://github.com/user-attachments/assets/abfc2a89-b458-4978-9608-1fd35d9b72b0" />
 
-**Virtual Machine Creation**
+### Virtual Machine Creation:
 
 After launching VMware Workstation, crtl+N to create a new typical virtual machine inside the workstation.
 
