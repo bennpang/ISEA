@@ -1,5 +1,5 @@
-This lab focused on setting up a Linux environment using virtualization software. The objective was to successfully install and configure a virtual machine running Ubuntu Linux while gaining an understanding of virtualization basics, installation procedures, and network configuration.
-
+## This lab focused on setting up a Linux environment using virtualization software. The objective was to successfully install and configure a virtual machine running Ubuntu Linux while gaining an understanding of virtualization basics, installation procedures, and network configuration.
+---
 The tools used included:
 
 VMware Workstation (after initially attempting VirtualBox)
