@@ -31,7 +31,7 @@ Changing the group ownership with "sudo chgrp -R sharedgroup/ home/shared". The 
 
 <img width="362" height="156" alt="image" src="https://github.com/user-attachments/assets/7e8959ec-32e4-4c8b-beb2-b2b40ce47c87" />
 
-
+jfkasjdsjdsj
 <img width="401" height="193" alt="image" src="https://github.com/user-attachments/assets/553a2fb4-1522-4c9c-bac3-c5c1d4d78c43" />
 
 
