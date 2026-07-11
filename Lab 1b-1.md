@@ -1,5 +1,7 @@
 Using a virtual machine environment, this lab focuses on developing practical skills in networking, secure communication, and Linux system management. I've learned how to use various networking tools and services to remotely administer and access a Linux server thanks to this lab exercise.
 
+**Apache**
+---
 Initially, I had to use "sudo apt install apeche2" to get Apeche before testing it on my browser at http://127.0.0.1.
 
 Here are pictures of me testing and downloading it. Everything was operating smoothly!
