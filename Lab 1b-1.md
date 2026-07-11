@@ -78,6 +78,7 @@ Challenge 1 is to SSH into the Ubuntu VM and create a file on their desktop "tou
 
 Challenge 2
 ---
+Challenge 2 is to attempt to launch gedit while SSH. At first, I thought I was not able to launch it due to being on a Windows Machine. However, when I retried on Ubuntu Clone machine it still gave me the same result. This suggest that because I was in SSH i wasnt able to launch gedit due to the nature of SSH being CLI interface that cannot produce graphical interface.
 
 <img width="626" height="290" alt="image" src="https://github.com/user-attachments/assets/99cda81a-0ee5-4e8f-9562-983638979bda" />
 
