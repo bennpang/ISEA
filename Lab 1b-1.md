@@ -12,7 +12,9 @@ Default webpage of Apache WebServer
 
 <img width="431" height="356" alt="image" src="https://github.com/user-attachments/assets/a732305e-12e9-4589-93ae-23606d829e78" />
 
-Personalising my webserver with a code that i found online
+**Modified index.html page**
+
+I personalising my webserver with a code that i found online by editing the file with "nano /var/www/html/index.html"
 
 
 <img width="450" height="377" alt="image" src="https://github.com/user-attachments/assets/4fb75266-a910-4085-bd68-380da24058c1" />
