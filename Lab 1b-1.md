@@ -70,13 +70,14 @@ After listing all the files with "ls -la" I am able to see that the zipped file 
 
 <img width="440" height="199" alt="image" src="https://github.com/user-attachments/assets/b8e75d6e-8cea-40d9-a3b1-651f8e5b74d2" />
 
-
-Challenge
+Challenge 1
+---
+Challenge 1 is to SSH into the Ubuntu VM and create a file on their desktop "touch Hi_Neighbor.txt" creates the file
 
 <img width="658" height="275" alt="image" src="https://github.com/user-attachments/assets/8546ffa7-81e7-4d82-8bd1-18ecc3fd7fe9" />
 
-
 Challenge 2
+---
 
 <img width="626" height="290" alt="image" src="https://github.com/user-attachments/assets/99cda81a-0ee5-4e8f-9562-983638979bda" />
 
