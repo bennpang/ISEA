@@ -71,7 +71,7 @@ Since nslookup was working. I could try to access the website with HTTP to view 
 
 <img width="630" height="458" alt="Screenshot 2026-07-11 160610" src="https://github.com/user-attachments/assets/62fc4819-71ee-4c89-906c-b2ff36fea16c" />
 
-
+SS
 <img width="332" height="166" alt="Screenshot 2026-07-11 160847" src="https://github.com/user-attachments/assets/55887e23-5f9d-4036-98ce-9d3fa7548618" />
 
 <img width="311" height="119" alt="Screenshot 2026-07-11 161851" src="https://github.com/user-attachments/assets/e2623b30-ffa5-4368-b8ad-542d9aa8e089" />
