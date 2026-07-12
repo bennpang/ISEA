@@ -45,7 +45,9 @@ This was the new website front page
 
 <img width="614" height="436" alt="Screenshot 2026-07-11 155135" src="https://github.com/user-attachments/assets/686c42ee-3e9e-405c-8db5-473add63045d" />
 
-<img width="439" height="409" alt="Screenshot 2026-07-11 160217" src="https://github.com/user-attachments/assets/75a1df2a-aca5-4cdf-a4c5-dbd0cf9bdb0e" />
+With the command sudo ss- tulpn | grep: 80 I was finds out exactly which application or process is using port 80 on my system. This confirmed that apache server in this instance was using port 80
+
+<img width="511" height="261" alt="image" src="https://github.com/user-attachments/assets/96ff6557-d4bf-4864-9b6d-cc39e2b1cab5" />
 
 <img width="439" height="191" alt="Screenshot 2026-07-11 160343" src="https://github.com/user-attachments/assets/33643cc0-d420-4b1e-ad4b-fee1ad77ccea" />
 
