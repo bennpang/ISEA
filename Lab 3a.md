@@ -37,7 +37,7 @@ This was the default output of the website
 
 <img width="415" height="308" alt="Screenshot 2026-07-11 152250" src="https://github.com/user-attachments/assets/99383c8e-6352-495e-a8bf-3df997c10a4c" />
 
-I decided to make my website to unique 
+I decided to make my website to unique by edited the "/var/www/html/index.html" file
 
 <img width="349" height="98" alt="Screenshot 2026-07-11 153826" src="https://github.com/user-attachments/assets/f4036f53-8f95-40d3-b8d3-4e13d01038f7" />
 
