@@ -27,9 +27,11 @@ Next I had to install apache web server for hosting the website
 
 <img width="414" height="131" alt="Screenshot 2026-07-11 151838" src="https://github.com/user-attachments/assets/e45c3f23-6189-4b6c-8667-d81a398e02f5" />
 
-This was the default output of the website
+Enabling the server with "systmctl start apache2"
 
 <img width="411" height="182" alt="Screenshot 2026-07-11 152010" src="https://github.com/user-attachments/assets/3e0f18fb-ddfd-45bf-89a2-dcdc2b1dd817" />
+
+This was the default output of the website
 
 <img width="682" height="434" alt="Screenshot 2026-07-11 152055" src="https://github.com/user-attachments/assets/45d78cbb-47f5-408f-b5b4-a29812561eda" />
 
