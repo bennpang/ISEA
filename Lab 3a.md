@@ -63,6 +63,7 @@ With the script written I chmod the file so that only the owner was able to have
 
 <img width="434" height="328" alt="Screenshot 2026-07-11 160143" src="https://github.com/user-attachments/assets/f1115482-7f23-4fbf-bda2-ea01420f87de" />
 
+To check if the DNS is working properly, I used the nslookup command to check if I was able to get a ip address from the hostname.
 
 <img width="320" height="110" alt="Screenshot 2026-07-11 160602" src="https://github.com/user-attachments/assets/64faddbd-3371-4a59-86a8-d59ea6808853" />
 
