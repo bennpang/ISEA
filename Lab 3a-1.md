@@ -1,5 +1,5 @@
-## Lab 3a-1
-This lab introduces students to setting up a complete Internet-facing web presence. Students will configure a cloud VM, purchase and link a domain name, set DNS records, and secure their site with HTTPS using Let's Encrypt. The goal is to empower students to create real online services with full control.
+## Lab 3a-
+this is lab introduces students to setting up a complete Internet-facing web presence by configuring a cloud virtual machine (VM), purchasing and linking a domain name, setting up DNS records, and hosting a website on an Apache web server. Building on top of that, we will obtain and install a free TLS certificate from Let's Encrypt using Certbot to enable HTTPS on their website. I will verify the certificate installation, ensure secure communication between clients and the server, and gain practical experience in deploying and managing a publicly accessible, secure web service with full control over its infrastructure..
 
 <img width="590" height="403" alt="Screenshot 2026-07-11 152110" src="https://github.com/user-attachments/assets/540c7b45-6256-4c37-b6e8-8f47905be20e" />
 
