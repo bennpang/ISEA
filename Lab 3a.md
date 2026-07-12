@@ -49,6 +49,9 @@ With the command sudo ss- tulpn | grep: 80 I was finds out exactly which applica
 
 <img width="511" height="261" alt="image" src="https://github.com/user-attachments/assets/96ff6557-d4bf-4864-9b6d-cc39e2b1cab5" />
 
+Setting Up DNS
+---
+ Next was to setup a script "duck.sh" to set up Dybamic DNS for DuckDNS.
 <img width="439" height="191" alt="Screenshot 2026-07-11 160343" src="https://github.com/user-attachments/assets/33643cc0-d420-4b1e-ad4b-fee1ad77ccea" />
 
 
