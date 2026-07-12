@@ -67,7 +67,10 @@ To check if the DNS is working properly, I used the nslookup command to check if
 
 <img width="320" height="110" alt="Screenshot 2026-07-11 160602" src="https://github.com/user-attachments/assets/64faddbd-3371-4a59-86a8-d59ea6808853" />
 
+Since nslookup was working. I could try to access the website with HTTP to view the website. In this photo below it was successful. 
+
 <img width="630" height="458" alt="Screenshot 2026-07-11 160610" src="https://github.com/user-attachments/assets/62fc4819-71ee-4c89-906c-b2ff36fea16c" />
+
 
 <img width="332" height="166" alt="Screenshot 2026-07-11 160847" src="https://github.com/user-attachments/assets/55887e23-5f9d-4036-98ce-9d3fa7548618" />
 
