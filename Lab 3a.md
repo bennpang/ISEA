@@ -37,11 +37,13 @@ This was the default output of the website
 
 <img width="415" height="308" alt="Screenshot 2026-07-11 152250" src="https://github.com/user-attachments/assets/99383c8e-6352-495e-a8bf-3df997c10a4c" />
 
-I decided to make my website to unique by edited the "/var/www/html/index.html" file
+I decided to make my website to unique by edited the "/var/www/html/html.index" file
 
 <img width="349" height="98" alt="Screenshot 2026-07-11 153826" src="https://github.com/user-attachments/assets/f4036f53-8f95-40d3-b8d3-4e13d01038f7" />
 
 <img width="441" height="404" alt="Screenshot 2026-07-11 155130" src="https://github.com/user-attachments/assets/3a22917b-c768-42a0-8e9a-b3a8882c11d7" />
+
+This was the new website front page
 
 <img width="614" height="436" alt="Screenshot 2026-07-11 155135" src="https://github.com/user-attachments/assets/686c42ee-3e9e-405c-8db5-473add63045d" />
 
