@@ -59,6 +59,7 @@ I created a new subdomain inside Duck DNS with the alias name of "duckricelover"
  
 <img width="439" height="191" alt="Screenshot 2026-07-11 160343" src="https://github.com/user-attachments/assets/33643cc0-d420-4b1e-ad4b-fee1ad77ccea" />
 
+With the script written I chmod the file so that only the owner was able to have full rights to the file. In the example below, with the sudo command I was unable to do anything with the file. This gives better security and is a better practice in the industry.
 
 <img width="434" height="328" alt="Screenshot 2026-07-11 160143" src="https://github.com/user-attachments/assets/f1115482-7f23-4fbf-bda2-ea01420f87de" />
 
