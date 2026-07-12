@@ -47,11 +47,13 @@ This was the new website front page
 
 <img width="614" height="436" alt="Screenshot 2026-07-11 155135" src="https://github.com/user-attachments/assets/686c42ee-3e9e-405c-8db5-473add63045d" />
 
-<img width="434" height="328" alt="Screenshot 2026-07-11 160143" src="https://github.com/user-attachments/assets/f1115482-7f23-4fbf-bda2-ea01420f87de" />
-
 <img width="439" height="409" alt="Screenshot 2026-07-11 160217" src="https://github.com/user-attachments/assets/75a1df2a-aca5-4cdf-a4c5-dbd0cf9bdb0e" />
 
 <img width="439" height="191" alt="Screenshot 2026-07-11 160343" src="https://github.com/user-attachments/assets/33643cc0-d420-4b1e-ad4b-fee1ad77ccea" />
+
+
+<img width="434" height="328" alt="Screenshot 2026-07-11 160143" src="https://github.com/user-attachments/assets/f1115482-7f23-4fbf-bda2-ea01420f87de" />
+
 
 <img width="320" height="110" alt="Screenshot 2026-07-11 160602" src="https://github.com/user-attachments/assets/64faddbd-3371-4a59-86a8-d59ea6808853" />
 
