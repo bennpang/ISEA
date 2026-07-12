@@ -51,11 +51,11 @@ With the command sudo ss- tulpn | grep: 80 I was finds out exactly which applica
 
 Setting Up DNS
 ---
-I created a new subdomain inside Duck DNS with the alias name of "duckricelover"
+I created a new subdomain inside Duck DNS with the alias name of "duckricelover". I assigned the public ip address of the AWS instance to associate it with "duckricelover".
 
 <img width="257" height="267" alt="Screenshot 2026-07-12 122627" src="https://github.com/user-attachments/assets/8b1a7415-de9f-41e6-87a2-0342d033513a" />
 
- Next was to setup a script "duck.sh" to set up Dybamic DNS for DuckDNS.
+ Next was to setup a script "duck.sh" to set up Dybamic DNS for DuckDNS. In this script I had to specific the webpage url and also the token used inside of the DNS for automation when my Public IP changes in the script.
  
 <img width="439" height="191" alt="Screenshot 2026-07-11 160343" src="https://github.com/user-attachments/assets/33643cc0-d420-4b1e-ad4b-fee1ad77ccea" />
 
