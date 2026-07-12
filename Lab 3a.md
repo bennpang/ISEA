@@ -1,13 +1,26 @@
 ## Lab 3a
 this is lab introduces students to setting up a complete Internet-facing web presence by configuring a cloud virtual machine (VM), purchasing and linking a domain name, setting up DNS records, and hosting a website on an Apache web server. Building on top of that, we will obtain and install a free TLS certificate from Let's Encrypt using Certbot to enable HTTPS on their website. I will verify the certificate installation, ensure secure communication between clients and the server, and gain practical experience in deploying and managing a publicly accessible, secure web service with full control over its infrastructure..
 
+Creating AWS EC2 Instance
+---
+Using the AWS Management Console, I first created an Ubuntu EC2 instance. I created a security group during setup that was set up to permit SSH (Port 22), HTTP (Port 80), and HTTPS (Port 443) incoming traffic. These rules were required to allow users to access the web application via both HTTP and HTTPS, as well as to enable remote server administration.
+
 <img width="590" height="403" alt="Screenshot 2026-07-11 152110" src="https://github.com/user-attachments/assets/540c7b45-6256-4c37-b6e8-8f47905be20e" />
+
+I was then issued a private key by AWS which enable to have access to SSH.
 
 <img width="433" height="429" alt="image" src="https://github.com/user-attachments/assets/dd8b5a38-07fe-42be-a8fb-adda5d79672c" />
 
+Without this key I wasn't able to access SSH
+<img width="317" height="65" alt="image" src="https://github.com/user-attachments/assets/8057db28-0861-4abc-a2b2-adfe45054e41" />
+
+
+From this command "ssh -i /home/ben/Desktop/ubuntu.pem ubuntu@3.107.239.196"
+It tells SSH to use the private key for authentication to connect to the server at IP address 3.107.239.196 as the user ubuntu, using the private key stored in ~/ubuntu.pem.
 
 <img width="445" height="410" alt="Screenshot 2026-07-11 151536" src="https://github.com/user-attachments/assets/8dd946bd-cac5-45e0-a3df-4881daf7117c" />
-
+Web Server 
+Next I had to install apache web server 
 
 <img width="414" height="131" alt="Screenshot 2026-07-11 151838" src="https://github.com/user-attachments/assets/e45c3f23-6189-4b6c-8667-d81a398e02f5" />
 
