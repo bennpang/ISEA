@@ -49,6 +49,8 @@ Reflection Questions
 The for loop iterates through the numbers 1 to 5 using the sequence {1..5}. During each count, it prints the current iteration number and then pauses for 1 second using the sleep 1s command before continuing to the next number.
 If a user enters a number greater than 10 then program will print "Number out of range"
 
+<img width="399" height="283" alt="image" src="https://github.com/user-attachments/assets/08713261-6bd4-4f45-835d-dd752628888c" />
+
 To ensure that the user is prompted repeatedly until they provide a valid numeric value inside the desired range, place the input prompt inside a while loop. By enabling users to edit their input without restarting the script, this improves user experience.
 
 System Monitoring Script Created and Run
