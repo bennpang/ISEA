@@ -62,6 +62,15 @@ System Monitoring Script Created and Run
 <img width="402" height="265" alt="image" src="https://github.com/user-attachments/assets/6f9c747c-5e2d-404b-a280-69da5ad55cc2" />
 
 
+Reflection
+---
+the free command display all of the RAM in the system while the -h command makes it human readable format.
+
+<img width="403" height="317" alt="image" src="https://github.com/user-attachments/assets/c8079190-396a-43e1-842e-78a412d5e0ce" />
+
+I manage to modify the script to monitor the network usage with ss-tulnp which shows all active and listening TCP and UDP connectiosn along with their proccess ID (PID)
+
+Automated System monitoring is benefical for admistrators because they will have to deal with multiple systems in the industry. Having to manually check every system can be very time consuming and not practical. Hence haivng a automated script to monitor the logs will be benefical and administrators could use grep function to check thru multiple machines without having to manually go through every system individually.
 
 
 
