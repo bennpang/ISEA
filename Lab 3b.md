@@ -45,7 +45,25 @@ Therefore I went to check out the configuations of the website and determined th
 
 <img width="312" height="83" alt="image" src="https://github.com/user-attachments/assets/f8d11d0b-b946-4ddf-ac69-a1d3fa46b79f" />
 
+I had to configure the SSL inside apache
+
 <img width="309" height="61" alt="image" src="https://github.com/user-attachments/assets/750c14f6-b885-4576-8cc4-1374f155e3d7" />
+
+Here is the configuration  (HTTPS)
+
+<img width="320" height="165" alt="Screenshot 2026-07-13 173009" src="https://github.com/user-attachments/assets/58837bfd-2a30-4f9d-9d82-627484872788" />
+
+Then I had to enable the module for SSL
+
+<img width="216" height="26" alt="image" src="https://github.com/user-attachments/assets/e2060c05-c79c-4ebc-b3e5-6d6883a133ab" />
+
+I was now able to verify the SSL files
+<img width="316" height="34" alt="image" src="https://github.com/user-attachments/assets/ef9d7ab3-571e-4312-847e-72267df33c18" />
+
+I was also able to verify the Services inside of apache2ctl
+
+<img width="316" height="111" alt="image" src="https://github.com/user-attachments/assets/99e8c138-3707-430b-8110-d08cf20967a3" />
+
 
 
 
