@@ -7,6 +7,8 @@ First I installed WSL because the lab environment needed Ubuntu running on WSL2.
 
 The uname -a command process that I am on a Windows operating system and display the name and other system details
 
+Before installing more sophisticated software like Docker, databases, or third-party repositories on a Debian-based Linux system (such as Ubuntu), this command installs five fundamental utilities.
+
 <img width="862" height="222" alt="Screenshot 2026-07-14 053339" src="https://github.com/user-attachments/assets/bb07b55a-8ab6-4a1b-84cc-e22c8eaa2c70" />
 
 
