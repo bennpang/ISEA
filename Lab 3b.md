@@ -45,7 +45,8 @@ Challenge 2
 ---
 Created a script
 
-<img width="323" height="112" alt="Screenshot 2026-07-14 013056" src="https://github.com/user-attachments/assets/569eb4b0-099f-44d0-b389-b6dcbfcc5e89" />
+<img width="380" height="146" alt="image" src="https://github.com/user-attachments/assets/23ea5b90-976f-4410-a377-ec2152facd51" />
+
 
 Set it for all users
 
@@ -59,10 +60,18 @@ It Works!
 Reflection Question:
 ---
 Why is using absolute paths important in scripts run by cron?
-•	- What are the benefits of cloud exporting for backups?
-•	- How does cron differ from manual execution?
-•	- What happens if SSH keys are not accepted ahead of time?
-•	- How can login messages help improve user/system engagement?
+This is because since cron jobs are automated, they execute jobs within a highly restricted and minimal enviroment that lacks configuration therefore stating the absolute paths is important so that it there is a protection against security vulnerabilites.
 
+•	- What are the benefits of cloud exporting for backups?
+Disaster Recovery Security Cost Effictivenes and Accessibility
+
+•	- How does cron differ from manual execution?
+Cron automates and makes it simpler compared to multiple manual executions.
+
+•	- What happens if SSH keys are not accepted ahead of time?
+Based on my experience during the lab exercise the prompt will usually hang and not display anything. However i would have to manually type the key to enable the ssh connection.
+
+•	- How can login messages help improve user/system engagement?
+It give the user a more unique and much not so boring interface as well as to give the user customization in my example i was able to give a login welcome to the user and specify the account when logging into the terminal
 
 
