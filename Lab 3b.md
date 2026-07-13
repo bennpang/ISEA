@@ -44,9 +44,25 @@ I configured it!
 Challenge 2
 ---
 Created a script
+
 <img width="323" height="112" alt="Screenshot 2026-07-14 013056" src="https://github.com/user-attachments/assets/569eb4b0-099f-44d0-b389-b6dcbfcc5e89" />
 
+Set it for all users
 
-<img width="346" height="157" alt="Screenshot 2026-07-14 013521" src="https://github.com/user-attachments/assets/18763644-b6c9-418f-b5d6-9ca4f65539d5" />
+<img width="358" height="32" alt="image" src="https://github.com/user-attachments/assets/68a62807-70a3-45e2-a258-fecbf6796a5a" />
+
+It Works!
+
+<img width="327" height="158" alt="image" src="https://github.com/user-attachments/assets/dd05b72d-2b4b-4033-bda1-ba0b39ad6c53" />
+
+
+Reflection Question:
+---
+Why is using absolute paths important in scripts run by cron?
+•	- What are the benefits of cloud exporting for backups?
+•	- How does cron differ from manual execution?
+•	- What happens if SSH keys are not accepted ahead of time?
+•	- How can login messages help improve user/system engagement?
+
 
 
