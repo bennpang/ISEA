@@ -1,5 +1,5 @@
 ## Lab 3a
-this is lab introduces students to setting up a complete Internet-facing web presence by configuring a cloud virtual machine (VM), purchasing and linking a domain name, setting up DNS records, and hosting a website on an Apache web server. Building on top of that, we will obtain and install a free TLS certificate from Let's Encrypt using Certbot to enable HTTPS on their website. I will verify the certificate installation, ensure secure communication between clients and the server, and gain practical experience in deploying and managing a publicly accessible, secure web service with full control over its infrastructure..
+this is lab introduces students to setting up a complete Internet-facing web presence by configuring a cloud virtual machine (VM), purchasing and linking a domain name, setting up DNS records, and hosting a website on an Apache web server. Building on top of that, we will obtain and install a free TLS certificate from Let's Encrypt using Certbot to enable HTTPS on their website. I will verify the certificate installation, ensure secure communication between clients and the server, and gain practical experience in deploying and managing a publicly accessible, secure web service with full control over its infrastructure.
 
 Creating AWS EC2 Instance
 ---
@@ -71,34 +71,64 @@ Since nslookup was working. I could try to access the website with HTTP to view 
 
 <img width="630" height="458" alt="Screenshot 2026-07-11 160610" src="https://github.com/user-attachments/assets/62fc4819-71ee-4c89-906c-b2ff36fea16c" />
 
-Ping the hostname in command line inter
+Ping the hostname in command line interface. I was confused why I wasnt able to ping the the website. From what I can conclude is that the ping commands were dropped because of the firewall. But I was still able to resolve the public IP address of the website.
+
 <img width="332" height="166" alt="Screenshot 2026-07-11 160847" src="https://github.com/user-attachments/assets/55887e23-5f9d-4036-98ce-9d3fa7548618" />
+
+Enabling the firewall 
 
 <img width="311" height="119" alt="Screenshot 2026-07-11 161851" src="https://github.com/user-attachments/assets/e2623b30-ffa5-4368-b8ad-542d9aa8e089" />
 
+I wanted to continue the Lab with Nginx WebServer. So I installed nginx.
+
 <img width="434" height="247" alt="Screenshot 2026-07-11 162509" src="https://github.com/user-attachments/assets/f4b74fb0-cdc5-417a-8854-dacda557d895" />
+
+I was unable to get nginx active becuase of apache webserver as it was using port 80.
 
 <img width="440" height="189" alt="Screenshot 2026-07-11 162557" src="https://github.com/user-attachments/assets/99a43122-b851-4fb5-81ae-7e74b5723d7c" />
 
+Getting rid of apache
+
 <img width="423" height="212" alt="Screenshot 2026-07-11 162759" src="https://github.com/user-attachments/assets/ae5a93a8-438a-43dd-846a-ed32efa83883" />
 
+After getting rid of apache i was able to start nginx and this screenshot shows that it is active and running.
 
 <img width="431" height="175" alt="Screenshot 2026-07-11 162948" src="https://github.com/user-attachments/assets/689d39c3-7b7c-4300-980b-c5ab5047815f" />
 
+Certbot
+---
+I have install Certbot with the apt command in this lab and directing it into nginx web server
 
 <img width="424" height="261" alt="Screenshot 2026-07-11 163029" src="https://github.com/user-attachments/assets/292a8cf9-f61f-4117-9fa4-9536ea3befa7" />
 
+After installing certbot, I had to get the certificate for my website duckricelover. Hence, by running the command below. I was able to get my first certificate.
+
 <img width="355" height="203" alt="Screenshot 2026-07-11 163143" src="https://github.com/user-attachments/assets/662cb00c-73ec-45d3-90a9-03d49b3ca40d" />
+
+This screenshot below shows that i have successful received the certificate
 
 <img width="374" height="148" alt="Screenshot 2026-07-11 163157" src="https://github.com/user-attachments/assets/ab965591-fff6-4702-8c5c-6ae8cb094782" />
 
+My Website is secure!
+
 <img width="510" height="401" alt="Screenshot 2026-07-11 163448" src="https://github.com/user-attachments/assets/5c976ef0-170b-4a2f-8041-87ba258538c5" />
+
+Verifying that my certificate is from Let's Encrypt 
+---
+GUI
 
 <img width="400" height="430" alt="Screenshot 2026-07-11 163513" src="https://github.com/user-attachments/assets/44a6372a-76df-496a-8acb-0a35e9dc2579" />
 
+CLI
+
 <img width="308" height="137" alt="Screenshot 2026-07-11 163601" src="https://github.com/user-attachments/assets/fe3e1e69-bbe8-4e40-b845-8506033c3051" />
 
+
+Renewal of the certificate
+
 <img width="440" height="85" alt="Screenshot 2026-07-11 163804" src="https://github.com/user-attachments/assets/ba4a9358-e6a9-40e8-9b97-bf84f58a25de" />
+
+Simulation for certificate renewal
 
 <img width="306" height="188" alt="Screenshot 2026-07-11 163816" src="https://github.com/user-attachments/assets/ccbb3678-be45-4fbb-8bf6-8848973344ff" />
 
