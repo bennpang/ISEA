@@ -26,7 +26,7 @@ A text file can become a runnable program instead of a read-only document by usi
 
 Loop and Conditional Script
 ---
-I created a second Bash script that used the "read" command to take user input. Additionally, the script displayed various messages based on user input using if, elif, and else commands. This was followed by a for loop that numbered from 1 to 5.
+I created a second Bash script that used the "read -p" command to take user input. The command tells the system to print the text string that is after the -p (prompt) command. Additionally, the script displayed various messages based on user input using if, elif, and else commands. This was followed by a for loop that numbered from 1 to 5.
 
 An image of the Bash script
 <img width="512" height="342" alt="image" src="https://github.com/user-attachments/assets/c4fc767f-bed7-4cc7-a19c-69bd616b0b1f" />
