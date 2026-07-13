@@ -19,3 +19,6 @@ Here is me testing that Docker was working fine
 
 <img width="622" height="325" alt="Screenshot 2026-07-14 053439" src="https://github.com/user-attachments/assets/18ea9425-45be-43ca-839e-07fbdefb9f61" />
 
+made docker usable without sudo command by using the command "sudo usermod -aG docker benp"
+
+<img width="569" height="315" alt="image" src="https://github.com/user-attachments/assets/8dc767e3-fd2c-4c10-84a0-1de10003c1ec" />
