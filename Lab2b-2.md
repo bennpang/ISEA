@@ -13,10 +13,17 @@ I can create a new directory with the "mkdir" command and I view the contents of
 
 Basic Bash Script Created and Run
 ---
+I created a basic bash script inside a script file(.sh) the command echo tells the script to display the string "Hello World" inside the CLI once the script is run with ./
+
+The Script will run smoothly because of #!bin/bash which is known as a shebang that tell the operating system which program (interputer) to use to execut the text inside of the file.
 
 <img width="370" height="265" alt="image" src="https://github.com/user-attachments/assets/51472320-9811-4168-8148-8c2e06f73f6b" />
 
+Next I edited the file and change the output and it runs smoothly too! This tells how to echo function works.
+
 <img width="421" height="263" alt="image" src="https://github.com/user-attachments/assets/332c9844-fb68-4b84-885b-5c645500199e" />
+
+In this Change mode command I could also do chmod +rwx tell the system to add permission to read write and execute.
 
 <img width="328" height="104" alt="image" src="https://github.com/user-attachments/assets/075efe7b-7813-425f-aff2-8ee12dca1dd7" />
 
@@ -28,7 +35,13 @@ Loop and Conditional Script
 ---
 I created a second Bash script that used the "read -p" command to take user input. The command tells the system to print the text string that is after the -p (prompt) command. Additionally, the script displayed various messages based on user input using if, elif, and else commands. This was followed by a for loop that numbered from 1 to 5.
 
-An image of the Bash script
+An image of the Bash script:
+This script will display "echo" System Information Script and display the curent user "whoami" it will then start a loop "for" "in" 5 times, it will "do" display Interaion 1 ....5 every one second "sleep 1s" "done" closes the do statement.
+
+if: Starts the conditional statement.!: Means "NOT". It reverses the final result (inverts true to false, and false to true).[[]]: Advanced Bash brackets used for evaluating expressions and matching patterns. then: Signals the start of the code that runs if the condition is met. fi: closes the command if
+elif: tells that here is another if statement. else: last statement of the if statement
+
+
 <img width="512" height="342" alt="image" src="https://github.com/user-attachments/assets/c4fc767f-bed7-4cc7-a19c-69bd616b0b1f" />
 
 Reflection Questions
