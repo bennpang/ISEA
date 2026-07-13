@@ -70,7 +70,6 @@ After completing the lab, I removed the shared directory and its contents using 
 
 <img width="353" height="151" alt="image" src="https://github.com/user-attachments/assets/f400afae-735f-44b3-baf2-440dd99279dc" />
 
-
 Lab Reflection: 
 ---
 Understanding Linux Shell Expansion and Sudo Execution
