@@ -64,6 +64,26 @@ I was also able to verify the Services inside of apache2ctl
 
 <img width="316" height="111" alt="image" src="https://github.com/user-attachments/assets/99e8c138-3707-430b-8110-d08cf20967a3" />
 
+Then I decided to test the Apache Server
+
+<img width="308" height="89" alt="image" src="https://github.com/user-attachments/assets/da54a80e-5477-4332-aed6-bf293f4b9e5a" />
+
+For one last check I decided that Curl command was very useful as I was able to throw the entire page on my command line
+
+<img width="304" height="85" alt="image" src="https://github.com/user-attachments/assets/8a5971c7-d1aa-4fb0-8357-50f94911a31b" />
+
+To double confirm myself I decided to view the webpage in a browser.
+
+<img width="641" height="260" alt="image" src="https://github.com/user-attachments/assets/36ea95a9-6462-483f-9d83-cc189c5e0db9" />
+
+I was able to view that I had the certificate as well and was issues by LET'S ENCRYPT
+
+<img width="404" height="449" alt="image" src="https://github.com/user-attachments/assets/a629cc03-1fe5-40b5-801e-c7eec3aa9671" />
+
+Renewal of Certificate
+
+<img width="360" height="160" alt="image" src="https://github.com/user-attachments/assets/bd9b6528-82ae-412d-a697-b117a751c3e6" />
+
 
 
 
