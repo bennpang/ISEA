@@ -11,10 +11,11 @@ Before installing more sophisticated software like Docker, databases, or third-p
 
 <img width="862" height="222" alt="Screenshot 2026-07-14 053339" src="https://github.com/user-attachments/assets/bb07b55a-8ab6-4a1b-84cc-e22c8eaa2c70" />
 
-
+After updating the system, I was able to install Docker on WSL2
 
 <img width="848" height="314" alt="Screenshot 2026-07-14 053423" src="https://github.com/user-attachments/assets/746188c4-4fcf-45c4-ab35-99f3404fb09a" />
 
-
+Here is me testing that Docker was working fine
 
 <img width="622" height="325" alt="Screenshot 2026-07-14 053439" src="https://github.com/user-attachments/assets/18ea9425-45be-43ca-839e-07fbdefb9f61" />
+
