@@ -41,3 +41,12 @@ I configured it!
 <img width="466" height="371" alt="image" src="https://github.com/user-attachments/assets/ccc119f6-0d39-4320-bd65-66b7663b5dbb" />
 
 
+Challenge 2
+---
+Created a script
+<img width="323" height="112" alt="Screenshot 2026-07-14 013056" src="https://github.com/user-attachments/assets/569eb4b0-099f-44d0-b389-b6dcbfcc5e89" />
+
+
+<img width="346" height="157" alt="Screenshot 2026-07-14 013521" src="https://github.com/user-attachments/assets/18763644-b6c9-418f-b5d6-9ca4f65539d5" />
+
+
